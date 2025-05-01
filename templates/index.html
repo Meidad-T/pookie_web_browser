@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pookie.com</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            padding: 2rem;
+            background: #f2f2f2;
+        }
+        h1 {
+            color: #ff7300;
+        }
+        form {
+            margin-bottom: 2rem;
+        }
+        input[type="text"] {
+            width: 60%;
+            padding: 0.7rem 1rem;
+            border-radius: 30px;
+            border: 2px solid #ff7300;
+            font-size: 1rem;
+            outline: none;
+        }
+        input[type="submit"] {
+            padding: 0.7rem 1.5rem;
+            border-radius: 30px;
+            background-color: #ff7300;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .result {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .result a {
+            font-size: 1.2rem;
+            color: #0077cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .result a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Pookie.com 🧡</h1>
+    <form method="post">
+        <input type="text" name="query" placeholder="Look up Anything..." required>
+        <input type="submit" value="Search">
+    </form>
+
+    {% for url, preview in results %}
+        <div class="result">
+            <a href="{{ url }}" target="_blank">{{ url }}</a>
+            <p>{{ preview }}...</p>
+        </div>
+    {% endfor %}
+</body>
+</html>

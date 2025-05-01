@@ -1,0 +1,3105 @@
+
+
+
+
+Google Search - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload fileSpecial pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Search indexing
+
+
+
+
+Toggle Search indexing subsection
+
+
+
+
+
+1.1
+"Caffeine" search architecture upgrade
+
+
+
+
+
+
+
+
+1.2
+"Medic" search algorithm update
+
+
+
+
+
+
+
+
+
+
+2
+Search results
+
+
+
+
+Toggle Search results subsection
+
+
+
+
+
+2.1
+Ranking of results
+
+
+
+
+
+
+
+
+2.2
+PageRank
+
+
+
+
+
+
+
+
+2.3
+Google optimization
+
+
+
+
+
+
+
+
+2.4
+"Hummingbird" search algorithm upgrade
+
+
+
+
+
+
+
+
+2.5
+Search results quality
+
+
+
+
+
+
+
+
+2.6
+Shopping search
+
+
+
+
+
+
+
+
+
+
+3
+Interface
+
+
+
+
+Toggle Interface subsection
+
+
+
+
+
+3.1
+Page layout
+
+
+
+
+
+
+
+
+3.2
+Universal search
+
+
+
+
+
+
+
+
+3.3
+Rich snippets
+
+
+
+
+
+
+
+
+3.4
+Knowledge Graph
+
+
+
+
+
+
+
+
+3.5
+Google Knowledge Panel
+
+
+
+
+
+
+
+
+3.6
+Personal tab
+
+
+
+
+
+
+
+
+3.7
+Google Discover
+
+
+
+
+
+
+
+
+3.8
+AI Overviews
+
+
+
+
+
+
+
+
+3.9
+AI Mode
+
+
+
+
+
+
+
+
+3.10
+Redesigns
+
+
+
+
+
+
+
+
+3.11
+Smartphone apps
+
+
+
+
+
+
+
+
+
+
+4
+Performing a search
+
+
+
+
+Toggle Performing a search subsection
+
+
+
+
+
+4.1
+Search syntax
+
+
+
+
+
+
+4.1.1
+Query expansion
+
+
+
+
+
+
+
+
+
+
+4.2
+"I'm Feeling Lucky"
+
+
+
+
+
+
+
+
+4.3
+Special interactive features
+
+
+
+
+
+
+
+
+4.4
+"OK Google" conversational search
+
+
+
+
+
+
+
+
+
+
+5
+Operations
+
+
+
+
+Toggle Operations subsection
+
+
+
+
+
+5.1
+Search products
+
+
+
+
+
+
+
+
+5.2
+Energy consumption
+
+
+
+
+
+
+
+
+5.3
+Google Doodles
+
+
+
+
+
+
+
+
+
+
+6
+Criticism
+
+
+
+
+Toggle Criticism subsection
+
+
+
+
+
+6.1
+Privacy
+
+
+
+
+
+
+
+
+6.2
+Complaints about indexing
+
+
+
+
+
+
+
+
+6.3
+Child sexual abuse
+
+
+
+
+
+
+
+
+6.4
+January 2009 malware bug
+
+
+
+
+
+
+
+
+6.5
+Possible misuse of search results
+
+
+
+
+
+
+
+
+6.6
+FTC fines
+
+
+
+
+
+
+
+
+6.7
+Payments to Apple
+
+
+
+
+
+
+
+
+6.8
+Big data and human bias
+
+
+
+
+
+
+
+
+6.9
+Monopoly ruling
+
+
+
+
+
+
+
+
+
+
+7
+Trademark
+
+
+
+
+
+
+
+
+8
+Discontinued features
+
+
+
+
+Toggle Discontinued features subsection
+
+
+
+
+
+8.1
+Translate foreign pages
+
+
+
+
+
+
+
+
+8.2
+Instant search
+
+
+
+
+
+
+
+
+8.3
+Instant previews
+
+
+
+
+
+
+
+
+8.4
+Dedicated encrypted search page
+
+
+
+
+
+
+
+
+8.5
+Real-Time Search
+
+
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+References
+
+
+
+
+
+
+
+
+11
+Further reading
+
+
+
+
+
+
+
+
+12
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Google Search
+
+
+
+99 languages
+
+
+
+
+AfrikaansAlemannischالعربيةԱրեւմտահայերէնAsturianuAzərbaycancaবাংলাБашҡортсаБеларускаяБеларуская (тарашкевіца)भोजपुरीBikol CentralБългарскиBosanskiBrezhonegCatalàČeštinaDanskDeutschΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisFryskGalego한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaИронItalianoעבריתKapampanganҚазақшаKiswahiliКыргызчаLatinaLatviešuLëtzebuergeschLietuviųLi NihaLingálaLombardMagyarമലയാളംमराठीمصرىBahasa MelayuMinangkabauNederlandsNedersaksiesनेपाली日本語NapulitanoНохчийнNordfriiskNorsk bokmålOccitanOʻzbekcha / ўзбекчаਪੰਜਾਬੀPapiamentuភាសាខ្មែរPolskiPortuguêsRomânăRuna SimiРусскийᱥᱟᱱᱛᱟᱲᱤScotsShqipසිංහලSimple EnglishسنڌيSlovenščinaŚlůnskiSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்తెలుగుไทยTürkçeУкраїнськаاردوVènetoTiếng Việt吴语ייִדיש粵語Zazaki中文Tolışi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload filePermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikibooksWikinewsWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Search engine from Google
+"Google.com" redirects here. For the company itself, see Google.
+
+
+Google SearchGoogle Search on desktop as of April 29, 2025Type of siteWeb search engineAvailable in149 languagesOwnerGoogleRevenueGoogle AdsURLgoogle.com IPv6 supportYes[1]CommercialYesRegistrationOptionalLaunched1995; 30 years ago (1995) (first prototype)1997; 28 years ago (1997) (final launch)Current statusOnlineWritten inPythonCC++[2]
+Google Search (also known simply as Google or Google.com) is a search engine operated by Google. It allows users to search for information on the Web by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. It is the most popular search engine worldwide.
+Google Search is the most-visited website in the world. As of 2025, Google Search has a 90% share of the global search engine market.[3] Approximately 24.84% of Google's monthly global traffic comes from the United States, 5.51% from India, 4.7% from Brazil, 3.78% from the United Kingdom and 5.28% from Japan according to data provided by Similarweb.[4]
+The order of search results returned by Google is based, in part, on a priority rank system called "PageRank". Google Search also provides many different options for customized searches, using symbols to include, exclude, specify or require certain search behavior, and offers specialized interactive experiences, such as flight status and package tracking, weather forecasts, currency, unit, and time conversions, word definitions, and more.
+The main purpose of Google Search is to search for text in publicly accessible documents offered by web servers, as opposed to other data, such as images or data contained in databases. It was originally developed in 1996 by Larry Page, Sergey Brin, and Scott Hassan.[5][6][7] The search engine would also be set up in the garage of Susan Wojcicki's Menlo Park home.[8] In 2011, Google introduced "Google Voice Search" to search for spoken, rather than typed, words.[9] In 2012, Google introduced a semantic search feature named Knowledge Graph.
+Analysis of the frequency of search terms may indicate economic, social and health trends.[10] Data about the frequency of use of search terms on Google can be openly inquired via Google Trends and have been shown to correlate with flu outbreaks and unemployment levels, and provide the information faster than traditional reporting methods and surveys. As of mid-2016, Google's search engine has begun to rely on deep neural networks.[11]
+In August 2024, a US judge in Virginia ruled that Google held an illegal monopoly over Internet search and search advertising.[12][13] The court found that Google maintained its market dominance by paying large amounts to phone-makers and browser-developers to make Google its default search engine.[13] In April 2025, the trial to determine which remedies sought by the Department of Justice would be imposed to address Google’s illegal monopoly, which could include breaking up the company and preventing it from using its data to secure dominance in the AI sector.[14]
+
+
+Search indexing
+See also: GooglebotGoogle indexes hundreds of terabytes of information from web pages.[15] For websites that are currently down or otherwise not available, Google provides links to cached versions of the site, formed by the search engine's latest indexing of that page.[16] Additionally, Google indexes some file types, being able to show users PDFs, Word documents, Excel spreadsheets, PowerPoint presentations, certain Flash multimedia content, and plain text files.[17] Users can also activate "SafeSearch", a filtering technology aimed at preventing explicit and pornographic content from appearing in search results.[18]
+Despite Google search's immense index, sources generally assume that Google is only indexing less than 5% of the total Internet, with the rest belonging to the deep web, inaccessible through its search tools.[15][19][20]
+In 2012, Google changed its search indexing tools to demote sites that had been accused of piracy.[21] In October 2016, Gary Illyes, a webmaster trends analyst with Google, announced that the search engine would be making a separate, primary web index dedicated for mobile devices, with a secondary, less up-to-date index for desktop use. The change was a response to the continued growth in mobile usage, and a push for web developers to adopt a mobile-friendly version of their websites.[22][23] In December 2017, Google began rolling out the change, having already done so for multiple websites.[24]
+
+"Caffeine" search architecture upgrade
+In August 2009, Google invited web developers to test a new search architecture, codenamed "Caffeine", and give their feedback. The new architecture provided no visual differences in the user interface, but added significant speed improvements and a new "under-the-hood" indexing infrastructure. The move was interpreted in some quarters as a response to Microsoft's recent release of an upgraded version of its own search service, renamed Bing, as well as the launch of Wolfram Alpha, a new search engine based on "computational knowledge".[25][26] Google announced completion of "Caffeine" on June 8, 2010, claiming 50% fresher results due to continuous updating of its index.[27]
+With "Caffeine", Google moved its back-end indexing system away from MapReduce and onto Bigtable, the company's distributed database platform.[28][29]
+
+"Medic" search algorithm update
+In August 2018, Danny Sullivan from Google announced a broad core algorithm update. As per current analysis done by the industry leaders Search Engine Watch and Search Engine Land, the update was to drop down the medical and health-related websites that were not user friendly and were not providing good user experience. This is why the industry experts named it "Medic".[30]
+Google reserves very high standards for YMYL (Your Money or Your Life) pages. This is because misinformation can affect users financially, physically, or emotionally. Therefore, the update targeted particularly those YMYL pages that have low-quality content and misinformation. This resulted in the algorithm targeting health and medical-related websites more than others. However, many other websites from other industries were also negatively affected.[31]
+
+Search results
+Ranking of results
+By 2012, it handled more than 3.5 billion searches per day.[32] In 2013 the European Commission found that Google Search favored Google's own products, instead of the best result for consumers' needs.[33] In February 2015 Google announced a major change to its mobile search algorithm which would favor mobile friendly over other websites. Nearly 60% of Google searches come from mobile phones. Google says it wants users to have access to premium quality websites. Those websites which lack a mobile-friendly interface would be ranked lower and it is expected that this update will cause a shake-up of ranks. Businesses who fail to update their websites accordingly could see a dip in their regular websites traffic.[34]
+
+PageRank
+Main article: PageRank
+Google's rise was largely due to a patented algorithm called PageRank which helps rank web pages that match a given search string.[35] When Google was a Stanford research project, it was nicknamed BackRub because the technology checks backlinks to determine a site's importance. Other keyword-based methods to rank search results, used by many search engines that were once more popular than Google, would check how often the search terms occurred in a page, or how strongly associated the search terms were within each resulting page. The PageRank algorithm instead analyzes human-generated links assuming that web pages linked from many important pages are also important. The algorithm computes a recursive score for pages, based on the weighted sum of other pages linking to them. PageRank is thought to correlate well with human concepts of importance. In addition to PageRank, Google, over the years, has added many other secret criteria for determining the ranking of resulting pages. This is reported to comprise over 250 different indicators,[36][37] the specifics of which are kept secret to avoid difficulties created by scammers and help Google maintain an edge over its competitors globally.
+PageRank was influenced by a similar page-ranking and site-scoring algorithm earlier used for RankDex, developed by Robin Li in 1996. Larry Page's patent for PageRank filed in 1998 includes a citation to Li's earlier patent. Li later went on to create the Chinese search engine Baidu in 2000.[38][39]
+In a potential hint of Google's future direction of their Search algorithm, Google's then chief executive Eric Schmidt, said in a 2007 interview with the Financial Times: "The goal is to enable Google users to be able to ask the question such as 'What shall I do tomorrow?' and 'What job shall I take?'".[40] Schmidt reaffirmed this during a 2010 interview with The Wall Street Journal: "I actually think most people don't want Google to answer their questions, they want Google to tell them what they should be doing next."[41]
+
+Google optimization
+Main article: Search engine optimization
+Because Google is the most popular search engine, many webmasters attempt to influence their website's Google rankings. An industry of consultants has arisen to help websites increase their rankings on Google and other search engines. This field, called search engine optimization, attempts to discern patterns in search engine listings, and then develop a methodology for improving rankings to draw more searchers to their clients' sites. Search engine optimization encompasses both "on page" factors (like body copy, title elements, H1 heading elements and image alt attribute values) and Off Page Optimization factors (like anchor text and PageRank). The general idea is to affect Google's relevance algorithm by incorporating the keywords being targeted in various places "on page", in particular the title element and the body copy (note: the higher up in the page, presumably the better its keyword prominence and thus the ranking). Too many occurrences of the keyword, however, cause the page to look suspect to Google's spam checking algorithms. Google has published guidelines for website owners who would like to raise their rankings when using legitimate optimization consultants.[42] It has been hypothesized, and, allegedly, is the opinion of the owner of one business about which there have been numerous complaints, that negative publicity, for example, numerous consumer complaints, may serve as well to elevate page rank on Google Search as favorable comments.[43] The particular problem addressed in The New York Times article, which involved DecorMyEyes, was addressed shortly thereafter by an undisclosed fix in the Google algorithm. According to Google, it was not the frequently published consumer complaints about DecorMyEyes which resulted in the high ranking but mentions on news websites of events which affected the firm such as legal actions against it. Google Search Console helps to check for websites that use duplicate or copyright content.[44]
+
+"Hummingbird" search algorithm upgrade
+Main article: Google Hummingbird
+In 2013, Google significantly upgraded its search algorithm with "Hummingbird". Its name was derived from the speed and accuracy of the hummingbird.[45] The change was announced on September 26, 2013, having already been in use for a month.[46] "Hummingbird" places greater emphasis on natural language queries, considering context and meaning over individual keywords.[45] It also looks deeper at content on individual pages of a website, with improved ability to lead users directly to the most appropriate page rather than just a website's homepage.[47] The upgrade marked the most significant change to Google search in years, with more "human" search interactions[48] and a much heavier focus on conversation and meaning.[45] Thus, web developers and writers were encouraged to optimize their sites with natural writing rather than forced keywords, and make effective use of technical web development for on-site navigation.[49]
+
+Search results quality
+In 2023, drawing on internal Google documents disclosed as part of the United States v. Google LLC (2020) antitrust case, technology reporters claimed that Google Search was "bloated and overmonetized"[50] and that the "semantic matching" of search queries put advertising profits before quality.[51] Wired withdrew Megan Gray's piece after Google complained about alleged inaccuracies, while the author reiterated that «As stated in court, "A goal of Project Mercury was to increase commercial queries"».[52]
+In March 2024, Google announced a significant update to its core search algorithm and spam targeting, which is expected to wipe out 40 percent of all spam results.[53] On March 20th, it was confirmed that the roll out of the spam update was complete.[54]
+
+Shopping search
+On September 10, 2024, the European-based EU Court of Justice found that Google held an illegal monopoly with the way the company showed favoritism to its shopping search, and could not avoid paying €2.4 billion.[55] The EU Court of Justice referred to Google's treatment of rival shopping searches as "discriminatory" and in violation of the Digital Markets Act.[55]
+
+Interface
+Page layout
+At the top of the search page, the approximate result count and the response time two digits behind decimal is noted. Of search results, page titles and URLs, dates, and a preview text snippet for each result appears. Along with web search results, sections with images, news, and videos may appear.[56] The length of the previewed text snipped was experimented with in 2015 and 2017.[57][58]
+
+Universal search
+"Universal search" was launched by Google on May 16, 2007, as an idea that merged the results from different kinds of search types into one. Prior to Universal search, a standard Google search would consist of links only to websites. Universal search, however, incorporates a wide variety of sources, including websites, news, pictures, maps, blogs, videos, and more, all shown on the same search results page.[59][60] Marissa Mayer, then-vice president of search products and user experience, described the goal of Universal search as "we're attempting to break down the walls that traditionally separated our various search properties and integrate the vast amounts of information available into one simple set of search results.[61]
+In June 2017, Google expanded its search results to cover available job listings. The data is aggregated from various major job boards and collected by analyzing company homepages. Initially only available in English, the feature aims to simplify finding jobs suitable for each user.[62][63]
+
+Rich snippets
+In May 2009, Google announced that they would be parsing website microformats to populate search result pages with "Rich snippets". Such snippets include additional details about results, such as displaying reviews for restaurants and social media accounts for individuals.[64]
+In May 2016, Google expanded on the "Rich snippets" format to offer "Rich cards", which, similarly to snippets, display more information about results, but shows them at the top of the mobile website in a swipeable carousel-like format.[65] Originally limited to movie and recipe websites in the United States only, the feature expanded to all countries globally in 2017.[66]
+
+Knowledge Graph
+Main article: Knowledge Graph
+The Knowledge Graph is a knowledge base used by Google to enhance its search engine's results with information gathered from a variety of sources.[67] This information is presented to users in a box to the right of search results.[68] Knowledge Graph boxes were added to Google's search engine in May 2012,[67] starting in the United States, with international expansion by the end of the year.[69] The information covered by the Knowledge Graph grew significantly after launch, tripling its original size within seven months,[70] and being able to answer "roughly one-third" of the 100 billion monthly searches Google processed in May 2016.[71] The information is often used as a spoken answer in Google Assistant[72] and Google Home searches.[73] The Knowledge Graph has been criticized for providing answers without source attribution.[71]
+
+Google Knowledge Panel
+A Google Knowledge Panel[74] is a feature integrated into Google search engine result pages, designed to present a structured overview of entities such as individuals, organizations, locations, or objects directly within the search interface. This feature leverages data from Google's Knowledge Graph,[75] a database that organizes and interconnects information about entities, enhancing the retrieval and presentation of relevant content to users.
+The content within a Knowledge Panel[76] is derived from various sources, including Wikipedia and other structured databases, ensuring that the information displayed is both accurate and contextually relevant. For instance, querying a well-known public figure may trigger a Knowledge Panel displaying essential details such as biographical information, birthdate, and links to social media profiles or official websites.
+The primary objective of the Google Knowledge Panel is to provide users with immediate, factual answers, reducing the need for extensive navigation across multiple web pages.
+
+Personal tab
+In May 2017, Google enabled a new "Personal" tab in Google Search, letting users search for content in their Google accounts' various services, including email messages from Gmail and photos from Google Photos.[77][78]
+
+Google Discover
+Google Discover, previously known as Google Feed, is a personalized stream of articles, videos, and other news-related content. The feed contains a "mix of cards" which show topics of interest based on users' interactions with Google, or topics they choose to follow directly.[79] Cards include, "links to news stories, YouTube videos, sports scores, recipes, and other content based on what [Google] determined you're most likely to be interested in at that particular moment."[79] Users can also tell Google they're not interested in certain topics to avoid seeing future updates.
+Google Discover launched in December 2016[80] and received a major update in July 2017.[81] Another major update was released in September 2018, which renamed the app from Google Feed to Google Discover, updated the design, and adding more features.[82]
+Discover can be found on a tab in the Google app and by swiping left on the home screen of certain Android devices. As of 2019, Google will not allow political campaigns worldwide to target their advertisement to people to make them vote.[83]
+
+AI Overviews
+Main article: AI Overviews
+At the 2023 Google I/O event in May, Google unveiled Search Generative Experience (SGE), an experimental feature in Google Search available through Google Labs which produces AI-generated summaries in response to search prompts.[84] This was part of Google's wider efforts to counter the unprecedented rise of generative AI technology, ushered by OpenAI's launch of ChatGPT, which sent Google executives to a panic due to its potential threat to Google Search.[85] Google added the ability to generate images in October.[86] At I/O in 2024, the feature was upgraded and renamed AI Overviews.[87]
+
+Early AI Overview response to the problem of "cheese not sticking to pizza"
+AI Overviews was rolled out to users in the United States in May 2024.[87] The feature faced public criticism in the first weeks of its rollout after errors from the tool went viral online. These included results suggesting users add glue to pizza or eat rocks,[88] or incorrectly claiming Barack Obama is Muslim.[89] Google described these viral errors as "isolated examples", maintaining that most AI Overviews provide accurate information.[88][90] Two weeks after the rollout of AI Overviews, Google made technical changes and scaled back the feature, pausing its use for some health-related queries and limiting its reliance on social media posts.[91] Scientific American has criticised the system on environmental grounds, as such a search uses 30 times more energy than a conventional one.[92] It has also been criticized for condensing information from various sources, making it less likely for people to view full articles and websites. When it was announced in May 2024, Danielle Coffey, CEO of the News/Media Alliance was quoted as saying "This will be catastrophic to our traffic, as marketed by Google to further satisfy user queries, leaving even less incentive to click through so that we can monetize our content."[93]
+In August 2024, AI Overviews were rolled out in the UK, India, Japan, Indonesia, Mexico and Brazil, with local language support.[94] On October 28, 2024, AI Overviews was rolled out to 100 more countries, including Australia and New Zealand.[95]
+
+AI Mode
+In March 2025, Google introduced an experimental "AI Mode" within its Search platform, enabling users to input complex, multi-part queries and receive comprehensive, AI-generated responses. This feature leverages Google's advanced Gemini 2.0 model, which enhances the system's reasoning capabilities and supports multimodal inputs, including text, images, and voice.
+Initially, AI Mode is available to Google One AI Premium subscribers in the United States, who can access it through the Search Labs platform. This phased rollout allows Google to gather user feedback and refine the feature before a broader release.
+The introduction of AI Mode reflects Google's ongoing efforts to integrate advanced AI technologies into its services, aiming to provide users with more intuitive and efficient search experiences.[96][97]
+
+Redesigns
+Product Sans, Google's typeface since 2015
+In late June 2011, Google introduced a new look to the Google homepage in order to boost the use of the Google+ social tools.[98]
+One of the major changes was replacing the classic navigation bar with a black one. Google's digital creative director Chris Wiggins explains: "We're working on a project to bring you a new and improved Google experience, and over the next few months, you'll continue to see more updates to our look and feel."[99] The new navigation bar has been negatively received by a vocal minority.[100]
+In November 2013, Google started testing yellow labels for advertisements displayed in search results, to improve user experience. The new labels, highlighted in yellow color, and aligned to the left of each sponsored link help users differentiate between organic and sponsored results.[101]
+On December 15, 2016, Google rolled out a new desktop search interface that mimics their modular mobile user interface. The mobile design consists of a tabular design that highlights search features in boxes. and works by imitating the desktop Knowledge Graph real estate, which appears in the right-hand rail of the search engine result page, these featured elements frequently feature Twitter carousels, People Also Search For, and Top Stories (vertical and horizontal design) modules. The Local Pack and Answer Box were two of the original features of the Google SERP that were primarily showcased in this manner, but this new layout creates a previously unseen level of design consistency for Google results.[102]
+
+Smartphone apps
+Google offers a "Google Search" mobile app for Android and iOS devices.[103] The mobile apps exclusively feature Google Discover and a "Collections" feature, in which the user can save for later perusal any type of search result like images, bookmarks or map locations into groups.[104] Android devices were introduced to a preview of the feed, perceived as related to Google Now, in December 2016,[105] while it was made official on both Android and iOS in July 2017.[106][107]
+In April 2016, Google updated its Search app on Android to feature "Trends"; search queries gaining popularity appeared in the autocomplete box along with normal query autocompletion.[108] The update received significant backlash, due to encouraging search queries unrelated to users' interests or intentions, prompting the company to issue an update with an opt-out option.[109] In September 2017, the Google Search app on iOS was updated to feature the same functionality.[110]
+In December 2017, Google released "Google Go", an app designed to enable use of Google Search on physically smaller and lower-spec devices in multiple languages. A Google blog post about designing "India-first" products and features explains that it is "tailor-made for the millions of people in [India and Indonesia] coming online for the first time".[111]
+
+Performing a search
+A definition link is provided for many search terms.
+Google Search consists of a series of localized websites. The largest of those, the google.com site, is the top most-visited website in the world.[112] Some of its features include a definition link for most searches including dictionary words, the number of results you got on your search, links to other searches (e.g. for words that Google believes to be misspelled, it provides a link to the search results using its proposed spelling), the ability to filter results to a date range,[113] and many more.
+
+Search syntax
+Google search accepts queries as normal text, as well as individual keywords.[114] It automatically corrects apparent misspellings by default (while offering to use the original spelling as a selectable alternative), and provides the same results regardless of capitalization.[114] For more customized results, one can use a wide variety of operators, including, but not limited to:[115][116]
+
+OR or |  – Search for webpages containing one of two similar queries, such as marathon OR race
+AND  – Search for webpages containing two similar queries, such as marathon AND runner
+- (minus sign) – Exclude a word or a phrase, so that "apple -tree" searches where word "tree" is not used
+"" – Force inclusion of a word or a phrase, such as "tallest building"
+* – Placeholder symbol allowing for any substitute words in the context of the query, such as "largest * in the world"
+.. – Search within a range of numbers, such as "camera $50..$100"
+site: – Search within a specific website, such as "site:youtube.com"
+define: – Search for definitions for a word or phrase, such as "define:phrase"
+stocks: – See the stock price of investments, such as "stocks:googl"
+related: – Find web pages related to specific URL addresses, such as "related:www.wikipedia.org"
+cache: – Highlights the search-words within the cached pages, so that "cache:www.google.com xxx" shows cached content with word "xxx" highlighted.
+( )  – Group operators and searches, such as (marathon OR race) AND shoes
+filetype:  or ext: – Search for specific file types, such as filetype:gif
+before:  – Search for before a specific date, such as spacex before:2020-08-11
+after:  – Search for after a specific date, such as iphone after:2007-06-29
+@ – Search for a specific word on social media networks, such as "@twitter"
+Google also offers a Google Advanced Search page with a web interface to access the advanced features without needing to remember the special operators.[117]
+Unlike other search engines, when searching for exact phrases, Google Search only takes words that are on the same line into account.
+
+Query expansion
+Google applies query expansion to submitted search queries, using techniques to deliver results that it considers "smarter" than the query users actually submitted. This technique involves several steps, including:[118]
+
+Word stemming – Certain words can be reduced so other, similar terms, are also found in results, so that "translator" can also search for "translation"
+Acronyms – Searching for abbreviations can also return results about the name in its full length, so that "NATO" can show results for "North Atlantic Treaty Organization"
+Misspellings – Google will often suggest correct spellings for misspelled words
+Synonyms – In most cases where a word is incorrectly used in a phrase or sentence, Google search will show results based on the correct synonym
+Translations – The search engine can, in some instances, suggest results for specific words in a different language
+Ignoring words – In some search queries containing extraneous or insignificant words, Google search will simply drop those specific words from the query
+Location sensitivity – Google may consider users' geographical location to deliver more relevant results.
+A screenshot of suggestions by Google Search when "wikip" is typed
+In 2008, Google started to give users autocompleted search suggestions in a list below the search bar while typing, originally with the approximate result count previewed for each listed search suggestion.[119]
+
+"I'm Feeling Lucky"
+"I'm Feeling Lucky" redirects here. For the 2011 book by Douglas Edwards, see I'm Feeling Lucky (book).
+Google's homepage includes a button labeled "I'm Feeling Lucky". This feature originally allowed users to type in their search query, click the button and be taken directly to the first result, bypassing the search results page. Clicking it while leaving the search box empty opens Google's archive of Doodles.[120] With the 2010 announcement of Google Instant, an automatic feature that immediately displays relevant results as users are typing in their query, the "I'm Feeling Lucky" button disappears, requiring that users opt-out of Instant results through search settings to keep using the "I'm Feeling Lucky" functionality.[121] In 2012, "I'm Feeling Lucky" was changed to serve as an advertisement for Google services; users hover their computer mouse over the button, it spins and shows an emotion ("I'm Feeling Puzzled" or "I'm Feeling Trendy", for instance), and, when clicked, takes users to a Google service related to that emotion.[122]
+Tom Chavez of "Rapt", a firm helping to determine a website's advertising worth, estimated in 2007 that Google lost $110 million in revenue per year due to use of the button, which bypasses the advertisements found on the search results page.[123]
+
+Special interactive features
+See also: List of Google Easter eggs § Embedded tools
+Besides the main text-based search-engine function of Google search, it also offers multiple quick, interactive features. These include, but are not limited to:[124][125][126]
+
+Calculator
+Time zone, currency, and unit conversions
+Word translations
+Flight status
+Local film showings
+Weather forecasts
+Population and unemployment rates
+Package tracking
+Word definitions
+Metronome
+Roll a die
+"Do a barrel roll" (search page spins)
+"Askew" (results show up sideways)
+"OK Google" conversational search
+See also: Google Now and Google Assistant
+During Google's developer conference, Google I/O, in May 2013, the company announced that users on Google Chrome and ChromeOS would be able to have the browser initiate an audio-based search by saying "OK Google", with no button presses required. After having the answer presented, users can follow up with additional, contextual questions; an example include initially asking "OK Google, will it be sunny in Santa Cruz this weekend?", hearing a spoken answer, and reply with "how far is it from here?"[127][128] An update to the Chrome browser with voice-search functionality rolled out a week later, though it required a button press on a microphone icon rather than "OK Google" voice activation.[129] Google released a browser extension for the Chrome browser, named with a "beta" tag for unfinished development, shortly thereafter.[130] In May 2014, the company officially added "OK Google" into the browser itself;[131] they removed it in October 2015, citing low usage, though the microphone icon for activation remained available.[132] In May 2016, 20% of search queries on mobile devices were done through voice.[133]
+
+Operations
+Search products
+Main article: List of Google products
+"Google Videos" redirects here. For other uses, see Google Videos (disambiguation).
+Google VideosScreenshot
+Google Videos homepage as of 2025Type of siteVideo search engineAvailable inMultilingualOwnerGoogleURLwww.google.com/videohpCommercialYesRegistrationRecommendedLaunchedAugust 20, 2012; 12 years ago (2012-08-20)
+In addition to its tool for searching web pages, Google also provides services for searching images, Usenet newsgroups, news websites, videos (Google Videos), searching by locality, maps, and items for sale online. Google Videos allows searching the World Wide Web for video clips.[134] The service evolved from Google Video, Google's discontinued video hosting service that also allowed to search the web for video clips.[134]
+In 2012, Google has indexed over 30 trillion web pages, and received 100 billion queries per month.[135] It also caches much of the content that it indexes. Google operates other tools and services including Google News, Google Shopping, Google Maps, Google Custom Search, Google Earth, Google Docs, Picasa (discontinued), Panoramio (discontinued), YouTube, Google Translate, Google Blog Search and Google Desktop Search (discontinued[136]).
+There are also products available from Google that are not directly search-related. Gmail, for example, is a webmail application, but still includes search features; Google Browser Sync does not offer any search facilities, although it aims to organize your browsing time.
+
+Energy consumption
+In 2009, Google claimed that a search query requires altogether about 1 kJ or 0.0003 kW·h,[137] which is enough to raise the temperature of one liter of water by 0.24 °C. According to green search engine Ecosia, the industry standard for search engines is estimated to be about 0.2 grams of CO2 emission per search.[138] Google's 40,000 searches per second translate to 8 kg CO2 per second or over 252 million kilos of CO2 per year.[139]
+
+Google Doodles
+Main article: Google Doodle
+On certain occasions, the logo on Google's webpage will change to a special version, known as a "Google Doodle". This is a picture, drawing, animation, or interactive game that includes the logo. It is usually done for a special event or day although not all of them are well known.[140] Clicking on the Doodle links to a string of Google search results about the topic. The first was a reference to the Burning Man Festival in 1998,[141][142] and others have been produced for the birthdays of notable people like Albert Einstein, historical events like the interlocking Lego block's 50th anniversary and holidays like Valentine's Day.[143] Some Google Doodles have interactivity beyond a simple search, such as the famous "Google Pac-Man" version that appeared on May 21, 2010.
+
+Criticism
+Privacy
+Main article: Privacy concerns regarding Google
+Google has been criticized for placing long-term cookies on users' machines to store preferences, a tactic which also enables them to track a user's search terms and retain the data for more than a year.[144]
+Since 2012, Google Inc. has globally introduced encrypted connections for most of its clients, to bypass governative blockings of the commercial and IT services.[145]
+Google searches have also triggered keyword warrants in which information is shared with law enforcement leading to a criminal case.[146]
+
+Complaints about indexing
+In 2003, The New York Times complained about Google's indexing, claiming that Google's caching of content on its site infringed its copyright for the content.[147] In both Field v. Google and Parker v. Google, the United States District Court of Nevada ruled in favor of Google.[148][149]
+
+Child sexual abuse
+This section needs expansion. You can help by making an edit requestadding to it .  (May 2024)
+A 2019 New York Times article on Google Search showed that images of child sexual abuse had been found on Google and that the company had been reluctant at times to remove them.[150]
+
+January 2009 malware bug
+A screenshot of the error of January 31, 2009
+Google flags search results with the message "This site may harm your computer" if the site is known to install malicious software in the background or otherwise surreptitiously. For approximately 40 minutes on January 31, 2009, all search results were mistakenly classified as malware and could therefore not be clicked; instead a warning message was displayed and the user was required to enter the requested URL manually. The bug was caused by human error.[151][152][153][154] The URL of "/" (which expands to all URLs) was mistakenly added to the malware patterns file.[152][153]
+
+Possible misuse of search results
+In 2007, a group of researchers observed a tendency for users to rely exclusively on Google Search for finding information, writing that "With the Google interface the user gets the impression that the search results imply a kind of totality. ... In fact, one only sees a small part of what one could see if one also integrates other research tools."[155]
+In 2011, Google Search query results have been shown by Internet activist Eli Pariser to be tailored to users, effectively isolating users in what he defined as a filter bubble. Pariser holds algorithms used in search engines such as Google Search responsible for catering "a personal ecosystem of information".[156] Although contrasting views have mitigated the potential threat of "informational dystopia" and questioned the scientific nature of Pariser's claims,[157] filter bubbles have been mentioned to account for the surprising results of the U.S. presidential election in 2016 alongside fake news and echo chambers, suggesting that Facebook and Google have designed personalized online realities in which "we only see and hear what we like".[158]
+
+FTC fines
+In 2012, the US Federal Trade Commission fined Google US$22.5 million for violating their agreement not to violate the privacy of users of Apple's Safari web browser.[159] The FTC was also continuing to investigate if Google's favoring of their own services in their search results violated antitrust regulations.[160]
+
+Payments to Apple
+In a November 2023 disclosure, during the ongoing antitrust trial against Google, an economics professor at the University of Chicago revealed that Google pays Apple 36% of all search advertising revenue generated when users access Google through the Safari browser. This revelation reportedly caused Google's lead attorney to cringe visibly.[citation needed] The revenue generated from Safari users has been kept confidential, but the 36% figure suggests that it is likely in the tens of billions of dollars.
+Both Apple and Google have argued that disclosing the specific terms of their search default agreement would harm their competitive positions. However, the court ruled that the information was relevant to the antitrust case and ordered its disclosure. This revelation has raised concerns about the dominance of Google in the search engine market and the potential anticompetitive effects of its agreements with Apple.[161]
+
+Big data and human bias
+Google search engine robots are programmed to use algorithms that understand and predict human behavior. The book, Race After Technology: Abolitionist Tools for the New Jim Code[162] by Ruha Benjamin talks about human bias as a behavior that the Google search engine can recognize. In 2016, some users Google searched "three Black teenagers" and images of criminal mugshots of young African American teenagers came up. Then, the users searched "three White teenagers" and were presented with photos of smiling, happy teenagers. They also searched for "three Asian teenagers", and very revealing photos of Asian girls and women appeared. Benjamin concluded that these results reflect human prejudice and views on different ethnic groups. A group of analysts explained the concept of a racist computer program: "The idea here is that computers, unlike people, can't be racist but we're increasingly learning that they do in fact take after their makers ... Some experts believe that this problem might stem from the hidden biases in the massive piles of data that the algorithms process as they learn to recognize patterns ... reproducing our worst values".[162]
+
+Monopoly ruling
+On August 5, 2024, Google lost a lawsuit which started in 2020 in D.C. Circuit Court, with Judge Amit Mehta finding that the company had an illegal monopoly over Internet search.[163] This monopoly was held to be in violation of Section 2 of the Sherman Act.[164] Google has said it will appeal the ruling,[165] though they did propose to loosen search deals with Apple and others requiring them to set Google as the default search engine.[166]
+
+Trademark
+Main article: Google (verb)
+As people talk about "googling" rather than searching, the company has taken some steps to defend its trademark, in an effort to prevent it from becoming a generic trademark.[167][168] This has led to lawsuits, threats of lawsuits, and the use of euphemisms, such as calling Google Search a famous web search engine.[169]
+
+Discontinued features
+Translate foreign pages
+Until May 2013, Google Search had offered a feature to translate search queries into other languages. A Google spokesperson told Search Engine Land that "Removing features is always tough, but we do think very hard about each decision and its implications for our users. Unfortunately, this feature never saw much pick up".[170]
+
+Instant search
+Instant search was announced in September 2010 as a feature that displayed suggested results while the user typed in their search query, initially only in select countries or to registered users.[171] The primary advantage of the new system was its ability to save time, with Marissa Mayer, then-vice president of search products and user experience, proclaiming that the feature would save 2–5 seconds per search, elaborating that "That may not seem like a lot at first, but it adds up. With Google Instant, we estimate that we'll save our users 11 hours with each passing second!"[172] Matt Van Wagner of Search Engine Land wrote that "Personally, I kind of like Google Instant and I think it represents a natural evolution in the way search works", and also praised Google's efforts in public relations, writing that "With just a press conference and a few well-placed interviews, Google has parlayed this relatively minor speed improvement into an attention-grabbing front-page news story".[173] The upgrade also became notable for the company switching Google Search's underlying technology from HTML to AJAX.[174]
+Instant Search could be disabled via Google's "preferences" menu for those who didn't want its functionality.[175]
+The publication 2600: The Hacker Quarterly compiled a list of words that Google Instant did not show suggested results for, with a Google spokesperson giving the following statement to Mashable:[176]
+
+There are several reasons you may not be seeing search queries for a particular topic. Among other things, we apply a narrow set of removal policies for pornography, violence, and hate speech. It's important to note that removing queries from Autocomplete is a hard problem, and not as simple as blacklisting particular terms and phrases.
+In search, we get more than one billion searches each day. Because of this, we take an algorithmic approach to removals, and just like our search algorithms, these are imperfect. We will continue to work to improve our approach to removals in Autocomplete, and are listening carefully to feedback from our users.
+
+Our algorithms look not only at specific words, but compound queries based on those words, and across all languages. So, for example, if there's a bad word in Russian, we may remove a compound word including the transliteration of the Russian word into English. We also look at the search results themselves for given queries. So, for example, if the results for a particular query seem pornographic, our algorithms may remove that query from Autocomplete, even if the query itself wouldn't otherwise violate our policies. This system is neither perfect nor instantaneous, and we will continue to work to make it better.
+PC Magazine discussed the inconsistency in how some forms of the same topic are allowed; for instance, "lesbian" was blocked, while "gay" was not, and "cocaine" was blocked, while "crack" and "heroin" were not. The report further stated that seemingly normal words were also blocked due to pornographic innuendos, most notably "scat", likely due to having two completely separate contextual meanings, one for music and one for a sexual practice.[177]
+On July 26, 2017, Google removed Instant results, due to a growing number of searches on mobile devices, where interaction with search, as well as screen sizes, differ significantly from a computer.[178][179]
+
+Instant previews
+"Instant previews" allowed previewing screenshots of search results' web pages without having to open them. The feature was introduced in November 2010 to the desktop website and removed in April 2013 citing low usage.[180][181]
+
+Dedicated encrypted search page
+Various search engines provide encrypted Web search facilities. In May 2010 Google rolled out SSL-encrypted web search.[182] The encrypted search was accessed at encrypted.google.com[183] However, the web search is encrypted via Transport Layer Security (TLS) by default today, thus every search request should be automatically encrypted if TLS is supported by the web browser.[184] On its support website, Google announced that the address encrypted.google.com would be turned off April 30, 2018, stating that all Google products and most new browsers use HTTPS connections as the reason for the discontinuation.[185]
+
+Real-Time Search
+Google Real-Time Search was a feature of Google Search in which search results also sometimes included real-time information from sources such as Twitter, Facebook, blogs, and news websites.[186] The feature was introduced on December 7, 2009,[187] and went offline on July 2, 2011, after the deal with Twitter expired.[188] Real-Time Search included Facebook status updates beginning on February 24, 2010.[189] A feature similar to Real-Time Search was already available on Microsoft's Bing search engine, which showed results from Twitter and Facebook.[190] The interface for the engine showed a live, descending "river" of posts in the main region (which could be paused or resumed), while a bar chart metric of the frequency of posts containing a certain search term or hashtag was located on the right hand corner of the page above a list of most frequently reposted posts and outgoing links. Hashtag search links were also supported, as were "promoted" tweets hosted by Twitter (located persistently on top of the river) and thumbnails of retweeted image or video links.
+In January 2011, geolocation links of posts were made available alongside results in Real-Time Search. In addition, posts containing syndicated or attached shortened links were made searchable by the link: query option. In July 2011, Real-Time Search became inaccessible, with the Real-Time link in the Google sidebar disappearing and a custom 404 error page generated by Google returned at its former URL. Google originally suggested that the interruption was temporary and related to the launch of Google+;[191] they subsequently announced that it was due to the expiry of a commercial arrangement with Twitter to provide access to tweets.[192]
+
+See also
+
+Internet portal
+List of search engines by popularity – Software system for finding relevant information on the WebPages displaying short descriptions of redirect targets
+Timeline of Google Search
+Censorship by Google § Google Search
+Google (verb) – Transitive verb, to search using Google
+Dragonfly (search engine) – Prototype Internet search engine to comply with Chinese censorship requirements
+Google bombing – Practice that causes a webpage to have a high rank in Google
+Google Panda – Change to Google's search results ranking algorithm
+Google Penguin – Google search engine algorithm update
+Googlewhack – Contest to find a Google Search query that returns a single result
+Halalgoogling – Islamic search engine blocking haram content
+Prabhakar Raghavan – American computer scientist
+Reunion (advertisement) – Google India advertisement for Google SearchPages displaying wikidata descriptions as a fallback
+List of search engines
+Comparison of web search engines
+History of Google
+List of Google products
+References
+
+
+^ York, Dan (June 6, 2016). "Google's IPv6 Stats Hit 12% on Fourth Anniversary of World IPv6 Launch". CircleID. Archived from the original on November 28, 2020. Retrieved August 5, 2019.
+
+^ "The Anatomy of a Large-Scale Hypertextual Web Search Engine". Computer Science Department, Stanford University, Stanford, CA. Archived from the original on April 25, 2009. Retrieved January 27, 2009.
+
+^ "Search Engine Market Share Worldwide". StatCounter Global Stats. Retrieved April 8, 2025.
+
+^ "google.com". similarweb.com.
+
+^ Fisher, Adam (July 10, 2018). "Brin, Page, and Mayer on the Accidental Birth of the Company that Changed Everything". Vanity Fair. Archived from the original on July 4, 2019. Retrieved August 23, 2019.
+
+^ McHugh, Josh (January 1, 2003). "Google vs. Evil". Wired. Retrieved August 24, 2019.
+
+^ D'Onfro, Jillian (February 13, 2016). "How a billionaire who wrote Google's original code created a robot revolution". Business Insider. Archived from the original on August 24, 2019. Retrieved August 24, 2019.
+
+^ Yoon, John; Isaac, Mike (August 10, 2024). "Susan Wojcicki, Former Chief of YouTube, Dies at 56". New York Times. Retrieved August 10, 2024.
+
+^ Google (Tue June 14, 2011) Official announcement Archived July 31, 2020, at the Wayback Machine
+
+^ Hubbard, Douglas (2011). Pulse: The New Science of Harnessing Internet Buzz to Track Threats and Opportunities. John Wiley & Sons.
+
+^ "Soon We Won't Program Computers. We'll Train Them Like Dogs". Wired. Retrieved May 30, 2018.
+
+^ Barakat, Matthew; Liedtke, Michale (August 5, 2024). "Google illegally maintains monopoly over internet search, judge rules". Associated Press. Retrieved August 6, 2024.
+
+^ a b "A court says Google is a monopolist. Now what?". The Economist. ISSN 0013-0613. Retrieved November 18, 2024.
+
+^ Montoya, Karina (March 13, 2025). "DOJ Sets Record Straight of What's Needed to Dismantle Google's Search Monopoly". Tech Policy Press. Retrieved April 24, 2025.
+
+^ a b Dominguez, Trace (September 2, 2015). "How Much of the Internet Is Hidden?". Seeker. Group Nine Media. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ "View web pages cached in Google Search Results". Google Search Help. Archived from the original on December 18, 2017. Retrieved December 9, 2017.
+
+^ Boswell, Wendy (November 1, 2017). "How to Use Google to Find and Open Files Online". Lifewire. Dotdash. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ "Block explicit results on Google using SafeSearch". Google Search Help. Archived from the original on April 6, 2018. Retrieved December 9, 2017.
+
+^ Rosen, JJ (May 3, 2014). "The Internet you can't Google". The Tennessean. Gannett Company. Retrieved December 9, 2017.
+
+^ Sherman, Chris; Price, Gary (May 22, 2008). "The Invisible Web: Uncovering Sources Search Engines Can't See". Illinois Digital Environment for Access to Learning and Scholarship. University of Illinois at Urbana–Champaign. hdl:2142/8528.
+
+^ Albanesius, Chloe (August 10, 2012). "Google to Demote Sites With 'High Number' of Copyright Complaints". PC Magazine. Ziff Davis. Retrieved December 9, 2017.
+
+^ Schwartz, Barry (October 13, 2016). "Within months, Google to divide its index, giving mobile users better & fresher content". Search Engine Land. Archived from the original on December 9, 2017. Retrieved December 9, 2017.
+
+^ Roberts, Hannah (October 27, 2016). "Google is splitting its search index to target 'stripped down' mobile websites". Business Insider. Axel Springer SE. Archived from the original on December 9, 2017. Retrieved December 9, 2017.
+
+^ Perez, Sarah (December 20, 2017). "Google's mobile-first search index has rolled out to a handful of sites". TechCrunch. Oath Inc. Archived from the original on December 20, 2017. Retrieved December 21, 2017.
+
+^ Barnett, Emma (August 11, 2009). "Google reveals caffeine: a new faster search engine". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved December 9, 2017.
+
+^ Fox, Vanessa (August 10, 2009). "Google Caffeine: Google's New Search Engine Index". Search Engine Land. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Fox, Vanessa (June 8, 2010). "Google's New Indexing Infrastructure "Caffeine" Now Live". Search Engine Land. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Metz, Cade (September 9, 2010). "Google search index splits with MapReduce". The Register. Situation Publishing. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Metz, Cade (August 14, 2009). "Google Caffeine: What it really is". The Register. Situation Publishing. Archived from the original on December 23, 2017. Retrieved December 9, 2017.
+
+^ Schwartz, Barry (August 9, 2018). "Google's Aug. 1 core algorithm update: Who did it impact, and how much". Search Engine Land. Archived from the original on August 23, 2018. Retrieved August 23, 2018.
+
+^ "Google Medic Update: Google's Core Search Update Had Big Impact On Health/Medical Sites". seroundtable.com. August 8, 2018. Archived from the original on March 21, 2019. Retrieved March 11, 2019.
+
+^ "Google Search Statistics - Internet Live Stats". www.internetlivestats.com. Archived from the original on February 4, 2015. Retrieved April 9, 2021.
+
+^ Barker, Alex; McCarthy, Bede (April 9, 2013). "Google favours 'in-house' search results". Financial Times. Archived from the original on December 10, 2022. Retrieved January 26, 2014.
+
+^ D'Onfro, Jillian (April 19, 2015). "Google is making a giant change this week that could crush millions of small businesses". Business Insider. Archived from the original on October 7, 2016. Retrieved November 5, 2016.
+
+^ Brin, S.; Page, L. (1998). "The anatomy of a large-scale hypertextual Web search engine" (PDF). Computer Networks and ISDN Systems. 30 (1–7): 107–117. CiteSeerX 10.1.1.115.5930. doi:10.1016/S0169-7552(98)00110-X. ISSN 0169-7552. S2CID 7587743. Archived (PDF) from the original on November 8, 2006.
+
+^ "Corporate Information: Technology Overview". Archived from the original on February 10, 2010. Retrieved November 15, 2009.
+
+^ Levy, Steven (February 22, 2010). "Exclusive: How Google's Algorithm Rules the Web". Wired. Vol. 17, no. 12. Wired.com. Archived from the original on April 16, 2011.
+
+^ "About: RankDex" Archived January 20, 2012, at the Wayback Machine, RankDex
+
+^ "Method for node ranking in a linked database". Google Patents. Archived from the original on October 15, 2015. Retrieved October 19, 2015.
+
+^ "Google's goal: to organize your daily life" Archived October 19, 2011, at the Wayback Machine. Financial Times.
+
+^ "Google and the Search for the Future" Archived July 30, 2017, at the Wayback Machine. The Wall Street Journal.
+
+^ "Google Webmaster Guidelines". Archived from the original on January 9, 2009. Retrieved November 15, 2009.
+
+^ Segal, David (November 26, 2010). "A Bully Finds a Pulpit on the Web". The New York Times. Archived from the original on January 2, 2022. Retrieved November 27, 2010.
+
+^ "Blogspot.com". Googleblog.blogspot.com. Archived from the original on October 19, 2012. Retrieved August 4, 2012.
+
+^ a b c Elran, Asher (November 15, 2013). "What Google 'Hummingbird' Means for Your SEO Strategy". Entrepreneur. Archived from the original on June 24, 2022. Retrieved December 10, 2017.
+
+^ Sullivan, Danny (September 26, 2013). "FAQ: All About The New Google "Hummingbird" Algorithm". Search Engine Land. Archived from the original on December 23, 2018. Retrieved December 10, 2017.
+
+^ Dodds, Don (December 16, 2013). "An SEO Guide to the Google Hummingbird Update". HuffPost. Oath Inc. Archived from the original on June 4, 2016. Retrieved December 10, 2017.
+
+^ Taylor, Richard (September 26, 2013). "Google unveils major upgrade to search algorithm". BBC News. BBC. Archived from the original on June 26, 2022. Retrieved December 10, 2017.
+
+^ Marentis, Chris (April 11, 2014). "A Complete Guide To The Essentials Of Post-Hummingbird SEO". Search Engine Land. Archived from the original on June 28, 2022. Retrieved December 10, 2017.
+
+^ Warzel, Charlie (September 22, 2023). "The Tragedy of Google Search". The Atlantic. Retrieved November 7, 2023.
+
+^ Megan Gray (October 2, 2023). "How Google Alters Search Queries to Get at Your Wallet". Archived from the original on October 2, 2023. This onscreen Google slide had to do with a "semantic matching" overhaul to its SERP algorithm. When you enter a query, you might expect a search engine to incorporate synonyms into the algorithm as well as text phrase pairings in natural language processing. But this overhaul went further, actually altering queries to generate more commercial results.
+
+^ Megan Gray (October 8, 2023). "Google is controlling the trial w/ its secrecy designations, controlling our searches w/ its greed, and controlling Wired w/ its scare tactics. I wrote an op-ed re Google mucking around w/ organic search to make it more shopping-oriented to gin up ad $. I stand by that. My 🧵". Twitter. Archived from the original on November 7, 2023 – via Thread Reader App.
+
+^ Schwartz, Barry (March 5, 2024). "Google releasing massive search quality enhancements in March 2024 core update and multiple spam updates". Search Engine Land.
+
+^ Schwartz, Barry (March 20, 2024). "Google March 2024 spam update done rolling out". Search Engine Land.
+
+^ a b Hancock, Edith (September 10, 2024). "Google loses EU court battle over €2.4B antitrust fine". Politico. Retrieved September 10, 2024.
+
+^ "test". Google Search. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ Slegg, Jennifer (November 2, 2015). "Google Testing Huge 7-Line Snippets in Search Results". The SEM Post. Archived from the original on October 17, 2021. Retrieved October 5, 2021.
+
+^ "Google officially increases length of snippets in search results". Search Engine Land. December 1, 2017. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ Marshall, Matt (May 16, 2007). "Google's move to "universal search"". VentureBeat. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Sullivan, Danny (May 16, 2007). "Google Launches "Universal Search" & Blended Results". Search Engine Land. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Mayer, Marissa (May 16, 2007). "Universal search: The best answer is still the best answer". Official Google Blog. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Lardinois, Frederic (June 20, 2017). "Google launches its AI-powered jobs search engine". TechCrunch. AOL. Archived from the original on June 21, 2017. Retrieved June 22, 2017.
+
+^ Gebhart, Andrew (June 20, 2017). "Google for Jobs is ready to help your employment search". CNET. CBS Interactive. Archived from the original on June 20, 2017. Retrieved June 22, 2017.
+
+^ Fox, Vanessa (May 12, 2009). "Google Search Now Supports Microformats and Adds "Rich Snippets" to Search Results". Search Engine Land. Archived from the original on December 9, 2017. Retrieved December 9, 2017.
+
+^ Schwartz, Barry (May 17, 2016). "Google launches rich cards for movie and recipe websites". Search Engine Land. Archived from the original on December 9, 2017. Retrieved December 9, 2017.
+
+^ Schwartz, Barry (March 29, 2017). "Google quietly expands rich cards worldwide". Search Engine Land. Archived from the original on December 9, 2017. Retrieved December 9, 2017.
+
+^ a b Singhal, Amit (May 16, 2012). "Introducing the Knowledge Graph: things, not strings". Official Google Blog. Archived from the original on December 10, 2017. Retrieved December 10, 2017.
+
+^ "Your business information in the Knowledge Panel". Google My Business Help. Archived from the original on April 20, 2017. Retrieved December 10, 2017.
+
+^ Newton, Casey (December 14, 2012). "How Google is taking the Knowledge Graph global". CNET. CBS Interactive. Archived from the original on December 10, 2017. Retrieved December 10, 2017.
+
+^ Newton, Casey (December 4, 2012). "Google's Knowledge Graph tripled in size in seven months". CNET. CBS Interactive. Archived from the original on August 29, 2018. Retrieved December 10, 2017.
+
+^ a b Dewey, Caitlin (May 11, 2016). "You probably haven't even noticed Google's sketchy quest to control the world's knowledge". The Washington Post. Archived from the original on September 25, 2017. Retrieved December 10, 2017.
+
+^ Lynley, Matthew (May 18, 2016). "Google unveils Google Assistant, a virtual assistant that's a big upgrade to Google Now". TechCrunch. Oath Inc. Archived from the original on January 26, 2021. Retrieved December 10, 2017.
+
+^ Bohn, Dieter (May 18, 2016). "Google Home: a speaker to finally take on the Amazon Echo". The Verge. Vox Media. Archived from the original on December 15, 2017. Retrieved December 10, 2017.
+
+^ Browne, Ryan (December 10, 2020). "Google launches knowledge panels in search results to tackle misinformation about Covid vaccines". CNBC. Retrieved August 28, 2024.
+
+^ Lardinois, Frederic (May 16, 2012). "Google Just Got A Whole Lot Smarter, Launches Its Knowledge Graph". TechCrunch. Retrieved August 28, 2024.
+
+^ Duffy, Scott (April 7, 2023). "How to Claim and Optimize Your Google Knowledge Panel". Entrepreneur. Retrieved August 28, 2024.
+
+^ Gartenberg, Chaim (May 26, 2017). "Google adds new Personal tab to search results to show Gmail and Photos content". The Verge. Vox Media. Archived from the original on May 26, 2017. Retrieved May 27, 2017.
+
+^ Westenberg, Jimmy (May 28, 2017). "New Personal tab in Google Search will show results from Photos, Gmail, and more". Android Authority. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ a b Bell, Karissa. "Google is using your entire search history to create a personalized news feed". Mashable. Archived from the original on May 23, 2018. Retrieved May 22, 2018.
+
+^ "Google is putting a news feed in Android's home screen". The Verge. Archived from the original on September 13, 2018. Retrieved May 22, 2018.
+
+^ Larson, Selena. "The Google app feed is about to get more personal". CNNMoney. Archived from the original on May 23, 2018. Retrieved May 22, 2018.
+
+^ "Introducing Google Discover". The Keyword Google. Archived from the original on July 16, 2021. Retrieved July 14, 2021.
+
+^ Lee, Dave (November 21, 2019). "Google to restrict political adverts worldwide". Archived from the original on November 21, 2019. Retrieved November 21, 2019.
+
+^ Pierce, David (May 10, 2023). "The AI takeover of Google Search starts now". The Verge. Archived from the original on May 10, 2023. Retrieved September 12, 2023.
+
+^ Levy, Steven (September 11, 2023). "Sundar Pichai on Google;s AI, Microsoft's AI, OpenAI, and ... Did We Mention AI?". Wired. Archived from the original on September 11, 2023. Retrieved September 12, 2023.
+
+^ Peters, Jay (October 12, 2023). "Google's AI-powered search experience can now generate images". The Verge. Archived from the original on October 12, 2023. Retrieved October 15, 2023.
+
+^ a b Pierce, David (May 14, 2024). "Google is redesigning its search engine — and it's AI all the way down". The Verge. Archived from the original on May 14, 2024. Retrieved May 14, 2024.
+
+^ a b McMahon, Liv; Kleinman, Zoe (May 25, 2024). "Glue pizza and eat rocks: Google AI search errors go viral". BBC.
+
+^ Field, Hayden (May 24, 2024). "Google criticized as AI Overview makes obvious errors, such as saying former President Obama is Muslim". CNBC.
+
+^ Grant, Nico (May 24, 2024). "Google's A.I. Search Errors Cause a Furor Online". New York Times.
+
+^ De Vynck, Gerrit (May 30, 2024). "Google scales back AI search answers after it told users to eat glue". The Washington Post. Archived from the original on May 31, 2024. Retrieved May 31, 2024.
+
+^ Parshall, Allison. "What Do Google's AI Answers Cost the Environment?". Scientific American.
+
+^ Darcy, Oliver (May 15, 2024). "News publishers sound alarm on Google's new AI-infused search, warn of 'catastrophic' impacts | CNN Business". CNN. Retrieved November 3, 2024.
+
+^ Mauran, Cecily (August 15, 2024). "The new Google AI Overview layout is a small win for publishers". Mashable. Retrieved November 3, 2024.
+
+^ Yeo, Amanda (October 28, 2024). "Google's AI Overview is rolling out worldwide". Mashable. Retrieved November 3, 2024.
+
+^ Malik, Aisha (March 5, 2025). "Google Search's new 'AI Mode' lets users ask complex, multi-part questions". TechCrunch. Retrieved March 7, 2025.
+
+^ Langley, Hugh. "Google's new AI Mode is a huge leap away from search as we know it". Business Insider. Retrieved March 7, 2025.
+
+^ Beato, Augusto. "Google Redesign Backs Social Effort". Portland SEO. Archived from the original on December 1, 2017. Retrieved July 1, 2011.
+
+^ "Google redesigns its homepage". Los Angeles Times. June 29, 2011. Archived from the original on January 21, 2013. Retrieved August 4, 2012.
+
+^ "Google support forum, one of many threads on being unable to switch off the black navigation bar". Archived from the original on December 24, 2011. Retrieved August 4, 2012.
+
+^ "Google ads: The wolf is out of the lamb's skin". www.techmw.com. Archived from the original on December 2, 2013. Retrieved December 2, 2013.
+
+^ Schwartz, Barry (December 6, 2016). "Google begins rolling out a new desktop search user interface". Search Engine Land. blogspot. Archived from the original on December 7, 2016. Retrieved December 6, 2016.
+
+^ "Google Search". Archived from the original on May 28, 2010. Retrieved May 30, 2018.
+
+^ Perez, Sarah (January 22, 2020). "Google's Collections feature now pushes people to save recipes & products, using AI". TechCrunch. Oath Inc. Archived from the original on July 14, 2021. Retrieved July 14, 2021.
+
+^ Bohn, Dieter (December 6, 2016). "Google is putting a news feed in Android's home screen". The Verge. Vox Media. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Newton, Casey (July 19, 2017). "Google introduces the feed, a personalized stream of news on iOS and Android". The Verge. Vox Media. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Matney, Lucas (July 19, 2017). "Google introduces the feed, a news stream of your evolving interests". TechCrunch. Oath Inc. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Schwartz, Barry (April 19, 2016). "Google Testing Trending In Search Auto-Complete". Search Engine Roundtable. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Schwartz, Barry (August 11, 2016). "You Can Now Opt Out Of Trending Searches In The Google Search App". Search Engine Roundtable. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Perez, Sarah (September 1, 2017). "Google's Search app on iOS gets a Twitter-like Trends feature, faster Instant Answers". TechCrunch. Oath Inc. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ "Google for India: Building India-first products and features". Google. December 5, 2017. Archived from the original on February 5, 2022. Retrieved February 5, 2022.
+
+^ "Top 500". Alexa Internet. Archived from the original on February 3, 2021. Retrieved November 8, 2020.
+
+^ Perry, Alex (April 10, 2019). "Google makes it way easier to search by date". Mashable. Archived from the original on March 2, 2022. Retrieved March 2, 2022.
+
+^ a b "How to search on Google". Google Search Help. Archived from the original on December 5, 2017. Retrieved December 9, 2017.
+
+^ "Refine web searches". Google Search Help. Archived from the original on October 11, 2017. Retrieved December 9, 2017.
+
+^ Boswell, Wendy (October 5, 2017). "Advanced Google Search Shortcuts". Lifewire. Dotdash. Archived from the original on January 7, 2018. Retrieved December 9, 2017.
+
+^ "Google Advanced Search". Google. Archived from the original on June 8, 2022. Retrieved June 9, 2022.
+
+^ Smarty, Ann (October 31, 2008). "What is Google Query Expansion? Cases and Examples". Search Engine Journal. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Sullivan, Danny (August 25, 2008). "Google.com Finally Gets Google Suggest Feature". Search Engine Land. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ "What Does The I'm Feeling Lucky Button On Google Search Do?". Fossbytes. April 12, 2016. Archived from the original on February 5, 2023. Retrieved March 2, 2022.
+
+^ Karch, Marziah (November 25, 2017). "How to Use Google's "I'm Feeling Lucky" Button". Lifewire. Dotdash. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Paul, Ian (August 24, 2012). "Google Changes 'I'm Feeling Lucky' Button". PC World. International Data Group. Archived from the original on August 31, 2017. Retrieved December 9, 2017.
+
+^ Newman, Brendan (November 19, 2007). "Are you feeling lucky? Google is". Marketplace. American Public Media. Archived from the original on October 20, 2017. Retrieved December 9, 2017.
+
+^ Reporters, Telegraph (August 17, 2017). "15 fun Google Easter eggs". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved December 9, 2017.
+
+^ Klosowski, Thorin (September 6, 2012). "20 Google Search Shortcuts to Hone Your Google-Fu". Lifehacker. Univision Communications. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Graziano, Dan (August 9, 2013). "How to get the most out of Google search". CNET. CBS Interactive. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Warman, Matt (May 16, 2013). "'OK Google' - 'conversational search' is coming soon". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved December 9, 2017.
+
+^ Robertson, Adi (May 15, 2013). "Google adds button-free voice search in Chrome: just say 'OK Google'". The Verge. Vox Media. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Lee, Jessica (May 23, 2013). "Google Talks Back: Conversational Search Available on New Version of Chrome". Search Engine Watch. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Albanesius, Chloe (November 27, 2013). "'OK Google' Voice Search Lands on Chrome". PC Magazine. Ziff Davis. Retrieved December 9, 2017.
+
+^ Protalinski, Emil (May 20, 2014). "Chrome 35 launches with 'OK Google' voice search, more control over touch input, new APIs and JavaScript features". The Next Web. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Protalinski, Emil (October 16, 2015). "Google removes 'OK Google' voice search from Chrome". VentureBeat. Archived from the original on December 10, 2017. Retrieved December 9, 2017.
+
+^ Shahani, Aarti (May 18, 2016). "With New Products, Google Flexes Muscles To Competitors, Regulators". NPR. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ a b Sullivan, Danny (August 5, 2010). "Let's Celebrate Google's Biggest Failures!". Search Engine Land. Archived from the original on April 5, 2019. Retrieved April 5, 2019.
+
+^ "Google: 100 Billion Searches Per Month, Search To Integrate Gmail, Launching Enhanced Search App For iOS". Searchengineland.com. August 8, 2012. Archived from the original on March 3, 2013. Retrieved February 18, 2013.
+
+^ Alan Eustace (September 2, 2011). "A fall spring-clean". Archived from the original on September 7, 2011. Retrieved October 1, 2020.
+
+^ Blogspot.com Archived July 29, 2009, at the Wayback Machine, Powering a Google search
+
+^ [1] Archived March 28, 2019, at the Wayback Machine How does Ecosia neutralize a search's CO2 emissions?
+
+^ [2] Archived February 4, 2015, at the Wayback Machine Google Search Statistics
+
+^ About Google Doodles . Google.com. Retrieved on November 29, 2013.
+
+^ Hwang, Dennis (June 8, 2004). "Oodles of Doodles". Google (corporate blog). Archived from the original on December 2, 2010. Retrieved July 19, 2006.
+
+^ "History of Doodles". Google, Inc. Archived from the original on February 5, 2014. Retrieved October 5, 2010.
+
+^ "valentine07". Google. February 14, 2007. Archived from the original on March 7, 2007. Retrieved April 6, 2007.
+
+^ Caddy, Becca (March 20, 2017). "Google tracks everything you do: here's how to delete it". Wired. Archived from the original on March 24, 2017. Retrieved March 20, 2017.
+
+^ Craig Timberg; JIa Lynn Yang (March 12, 2014). "Google is encrypting search globally. That's bad for the NSA and China's censors". The Washington Post. Archived from the original on December 3, 2018. Retrieved July 7, 2018.
+
+^ "Google is giving data to police based on search keywords, court docs show".
+
+^ Olsen, Stefanie (July 9, 2003). "Google cache raises copyright concerns". CNET. CBS Interactive. Archived from the original on May 10, 2011. Retrieved June 13, 2010.
+
+^ Field v. Google,  CV-S-04-0413-RCJ-LRL (Nevada District Court January 19, 2006), archived from the original.
+
+^ Parker v. Google,  04-CV-3918 (Eastern Pennsylvania District Court March 10, 2006), archived from the original on 2006-05-19.
+
+^ Keller, Michael H.; Dance, Gabriel J. X. (November 9, 2019). "Child Abusers Run Rampant as Tech Companies Look the Other Way". The New York Times. ISSN 0362-4331. Retrieved October 9, 2023.
+
+^ Krebs, Brian (January 31, 2009). "Google: This Internet May Harm Your Computer". The Washington Post. Archived from the original on November 30, 2011. Retrieved January 31, 2009.
+
+^ a b Mayer, Marissa (January 31, 2009). "This site may harm your computer on every search result?!?!". Official Google Blog. Archived from the original on February 2, 2009. Retrieved January 31, 2009.
+
+^ a b Weinstein, Maxim (January 31, 2009). "Google glitch causes confusion". StopBadware. Archived from the original on July 8, 2010. Retrieved May 10, 2010.
+
+^ Cooper, Russ (January 31, 2009). "Serious problems with Google search". Verizon Business Security Blog. Archived from the original on July 17, 2011. Retrieved May 10, 2010.
+
+^ Maurer, H.; Balke, Tilo; Kappe, Frank; Kulathuramaiyer, Narayanan; Weber, Stefan; Zaka, Bilal (September 30, 2007). "Report on dangers and opportunities posed by large search engines, particularly Google" (PDF). Graz University of Technology. Archived from the original (PDF) on December 29, 2009. Retrieved June 13, 2017.
+
+^ Parramore, Lynn (October 10, 2010). "The Filter Bubble". The Atlantic. Archived from the original on August 22, 2017. Retrieved April 20, 2011. Since Dec. 4, 2009, Google has been personalized for everyone. So when I had two friends this spring Google 'BP,' one of them got a set of links that was about investment opportunities in BP. The other one got information about the oil spill
+
+^ Weisberg, Jacob (June 10, 2011). "Bubble Trouble: Is Web personalization turning us into solipsistic twits?". Slate. Archived from the original on June 12, 2011. Retrieved August 15, 2011.
+
+^ Mostafa M. El-Bermawy (November 18, 2016). "Your Filter Bubble is Destroying Democracy". Wired. Retrieved March 3, 2017. The global village that was once the internet ... digital islands of isolation that are drifting further apart each day ... your experience online grows increasingly personalized
+
+^ "Google fined over Safari privacy violation" Archived August 11, 2012, at the Wayback Machine. Al Jazeera, August 10, 2012.
+
+^ Bailey, Brandon. "Google's review by FTC nearing critical point" Archived January 22, 2013, at the Wayback Machine. Mercury News, November 9, 2012.
+
+^ Nylen, Leah (November 13, 2023). "Apple Gets 36% of Google Revenue in Search Deal, Expert Says". Bloomberg News. Retrieved November 14, 2023.
+
+^ a b Benjamin, Ruha (2019). Race After Technology: Abolitionist Tools for the New Jim Code. Cambridge, UK: Polity Press. pp. 94–95. ISBN 9781509526437.
+
+^ Peters, Jay (August 6, 2024). "Now that Google is a monopolist, what's next? / Reaching a decision on what to do about Google Search could take a very long time". The Verge. Retrieved August 6, 2024.
+
+^ Mallin, Alexander (August 5, 2024). "Google violated antitrust laws to maintain dominance over online search, judge says". ABC News. Retrieved August 6, 2024.
+
+^ Milmo, Dan (November 21, 2024). "Google must sell Chrome to end search monopoly, says US justice department". The Guardian. ISSN 0261-3077. Retrieved January 7, 2025.
+
+^ Godoy, Jody (December 23, 2024). "Google offers to loosen search deals in US antitrust case remedy". Reuters. Retrieved January 7, 2025.
+
+^ Duffy, Jonathan (June 20, 2003). "Google calls in the 'language police'". BBC News. Archived from the original on June 29, 2012. Retrieved April 10, 2019.
+
+^ Ash, Karen Artz; Danow, Bret J. ""Google It": The Search Engine's Trademark May Be a Verb, But It's Not Generic". The National Law Review. Archived from the original on April 10, 2019. Retrieved April 10, 2019.
+
+^ "Feedback: Weight in dollars squared". New Scientist. June 5, 2013. Archived from the original on April 26, 2021. Retrieved November 8, 2020.
+
+^ Schwartz, Barry (May 20, 2013). "Google Drops "Translated Foreign Pages" Search Option Due To Lack Of Use". Search Engine Land. Archived from the original on October 17, 2017. Retrieved December 15, 2017.
+
+^ "Google Instant Search: The Complete User's Guide". Search Engine Land. September 8, 2010. Archived from the original on October 20, 2021. Retrieved October 5, 2021. Google Instant only works for searchers in the US or who are logged in to a Google account in selected countries outside the US
+
+^ Mayer, Marissa (September 8, 2010). "Search: now faster than the speed of type". Official Google Blog. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ Wagner, Matt Van (September 20, 2010). "How Google Saved $100 Million By Launching Google Instant". Search Engine Land. Archived from the original on October 19, 2017. Retrieved December 15, 2017.
+
+^ Gomes, Ben (September 9, 2010). "Google Instant, behind the scenes". Official Google Blog. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ Pash, Adam (September 8, 2010). "How to Turn Off Google Instant Search". Lifehacker. Univision Communications. Archived from the original on December 16, 2017. Retrieved December 15, 2017.
+
+^ Axon, Samuel (September 28, 2010). "Which Words Does Google Instant Blacklist?". Mashable. Ziff Davis. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ Horn, Leslie (September 29, 2010). "Google Instant Blacklist: Which Words Are Blocked?". PC Magazine. Ziff Davis. Retrieved December 15, 2017.
+
+^ Schwartz, Barry (July 26, 2017). "Google has dropped Google Instant Search". Search Engine Land. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ Statt, Nick (July 26, 2017). "Google will stop showing search results as you type because it makes no sense on mobile". The Verge. Vox Media. Archived from the original on December 15, 2017. Retrieved December 15, 2017.
+
+^ Singel, Ryan (November 9, 2010). "Google Gives Searchers 'Instant Previews' of Result Pages". Wired. Retrieved October 5, 2021.
+
+^ "Google Drops Instant Previews Over Low Usage". seroundtable.com. April 25, 2013. Archived from the original on October 5, 2021. Retrieved October 5, 2021.
+
+^ "SSL Search: Features – Web Search Help". Web Search Help. May 2010. Archived from the original on May 24, 2010. Retrieved July 7, 2010.
+
+^ "Encrypted.google.com". Archived from the original on December 29, 2013. Retrieved August 4, 2012.
+
+^ "Google Will Start Encrypting Your Searches". Time. March 13, 2014. Retrieved February 6, 2017.
+
+^ "Encrypted.google.com is going away". Google Inc. Archived from the original on March 27, 2018. Retrieved May 18, 2018.
+
+^ "Google launches Real-Time Search" Archived January 26, 2021, at the Wayback Machine. Mashable. Retrieved July 12, 2010.
+
+^ "Relevance meets the real-time web" Archived April 7, 2019, at the Wayback Machine. Google. Retrieved July 12, 2010.
+
+^ "As Deal With Twitter Expires, Google Realtime Search Goes Offline". Searchengineland.com. July 4, 2011. Archived from the original on November 11, 2013. Retrieved March 3, 2014.
+
+^ "Google Real-Time Search Now Includes A Fraction Of Facebook Status Updates" Archived October 31, 2019, at the Wayback Machine. TechCrunch. Retrieved July 12, 2010.
+
+^ "Google's Real-Time Search Ready to Challenge Bing" Archived July 6, 2012, at the Wayback Machine. PC World. Retrieved July 12, 2010.
+
+^ Quotes delayed at least 15 min (December 31, 1999). "Business news: Financial, stock & investing news online - MSN Money". Money.msn.com. Archived from the original on April 2, 2011. Retrieved March 3, 2014.{{cite web}}:  CS1 maint: numeric names: authors list (link)
+
+^ "Google Realtime Search Goes Missing". Searchengineland.com. July 3, 2011. Archived from the original on February 14, 2014. Retrieved March 3, 2014.
+
+
+Further reading
+
+Google Hacks from O'Reilly is a book containing tips about using Google effectively. Now in its third edition (2006). ISBN 0-596-52706-3.
+Google: The Missing Manual by Sarah Milstein and Rael Dornfest (O'Reilly, 2004). ISBN 0-596-00613-6
+How to Do Everything with Google by Fritz Schneider, Nancy Blachman, and Eric Fredricksen (McGraw-Hill Osborne Media, 2003). ISBN 0-07-223174-2
+Google Power by Chris Sherman (McGraw-Hill Osborne Media, 2005). ISBN 0-07-225787-3
+Barroso, Luiz Andre; Dean, Jeffrey; Hölzle, Urs (2003). "Web Search for a Planet: The Google Cluster Architecture". IEEE Micro. 23 (2): 22–28. doi:10.1109/MM.2003.1196112. ISSN 0272-1732. S2CID 15886858.
+Broderick, Ryan (August 28, 2023). "The end of the Googleverse". The Verge. Archived from the original on August 28, 2023. Retrieved August 30, 2023.
+Belanger, Ashley (October 27, 2023). "Google loses fight to hide 2021 money pit: $26B in default contracts". Ars Technica. Retrieved October 28, 2023.
+
+External links
+Official website 
+Google Search home
+Google Trends home
+vteGooglea subsidiary of AlphabetCompanyDivisions
+AI
+Area 120
+ATAP
+Brain
+China
+Cloud Platform
+Energy
+Google.org
+Crisis Response
+Health
+Registry
+SubsidiariesActive
+Security Operations
+DeepMind
+Fitbit
+ITA Software
+Jigsaw
+Looker
+Mandiant
+Owlchemy Labs
+Defunct
+Actifio
+Adscape
+Akwan Information Technologies
+Anvato
+Apigee
+BandPage
+Bitium
+BufferBox
+Crashlytics
+Dodgeball
+DoubleClick
+Dropcam
+Endoxon
+Flutter
+Global IP Solutions
+Green Throttle Games
+GreenBorder
+Gridcentric
+ImageAmerica
+Impermium
+Invite Media
+Kaltix
+Marratech
+Meebo
+Metaweb
+Neotonic Software
+Neverware
+Nik Software
+Orbitera
+Pyra Labs
+Quest Visual
+Reqwireless
+RightsFlow
+Sidewalk Labs
+SlickLogin
+Titan Aerospace
+Typhoon Studios
+Urban Engines
+Vicarious
+Viewdle
+Wavii
+Wildfire Interactive
+YouTube Next Lab and Audience Development Group
+Programs
+Business Groups
+Computing University Initiative
+Contact Lens
+Content ID
+CrossCheck
+Data Liberation Front
+Data Transfer Project
+Developer Expert
+DigiKavach
+DigiPivot
+Digital Garage
+Digital News Initiative
+Digital Unlocked
+Dragonfly
+Founders' Award
+Free Zone
+Get Your Business Online
+Google for Education
+Google for Startups
+Living Stories
+Made with Code
+News Lab
+PowerMeter
+Privacy Sandbox
+Project Nightingale
+Project Nimbus
+Project Sunroof
+Project Zero
+Quantum Artificial Intelligence Lab
+RechargeIT
+Sensorvault
+Silicon Initiative
+Solve for X
+Street View Trusted
+Student Ambassador Program
+Vevo
+YouTube BrandConnect
+YouTube Creator Awards
+YouTube Select
+YouTube Original Channel Initiative
+Year in Search
+YouTube Rewind
+2018
+2019
+Events
+AlphaGo versus Fan Hui
+AlphaGo versus Lee Sedol
+AlphaGo versus Ke Jie
+Android Developer Challenge
+Android Developer Day
+Android Developer Lab
+CNN/YouTube presidential debates
+Code-in
+Code Jam
+Developer Day
+Developers Live
+Doodle4Google
+Future of Go Summit
+G-Day
+Hash Code
+I/O
+Lunar X Prize
+Mapathon
+Science Fair
+Summer of Code
+World Chess Championship 2024
+YouTube Awards
+YouTube Comedy Week
+YouTube Live
+YouTube Music Awards
+2013
+2015
+YouTube Space Lab
+YouTube Symphony Orchestra
+Infrastructure
+111 Eighth Avenue
+Android lawn statues
+Androidland
+Barges
+Binoculars Building
+Central Saint Giles
+Chelsea Market
+Chrome Zone
+Data centers
+GeoEye-1
+Googleplex
+Ivanpah Solar Power Facility
+James R. Thompson Center
+King's Cross
+Mayfield Mall
+Pier 57
+Sidewalk Toronto
+St. John's Terminal
+Submarine cables
+Dunant
+Grace Hopper
+Unity
+WiFi
+YouTube Space
+YouTube Theater
+PeopleCurrent
+Krishna Bharat
+Vint Cerf
+Jeff Dean
+John Doerr
+Sanjay Ghemawat
+Al Gore
+John L. Hennessy
+Urs Hölzle
+Salar Kamangar
+Ray Kurzweil
+Ann Mather
+Alan Mulally
+Rick Osterloh
+Sundar Pichai (CEO)
+Ruth Porat (CFO)
+Rajen Sheth
+Hal Varian
+Neal Mohan
+Former
+Andy Bechtolsheim
+Sergey Brin (co-founder)
+David Cheriton
+Matt Cutts
+David Drummond
+Alan Eustace
+Timnit Gebru
+Omid Kordestani
+Paul Otellini
+Larry Page (co-founder)
+Patrick Pichette
+Eric Schmidt
+Ram Shriram
+Amit Singhal
+Shirley M. Tilghman
+Rachel Whetstone
+Susan Wojcicki
+CriticismGeneral
+Censorship
+DeGoogle
+FairSearch
+"Google's Ideological Echo Chamber"
+No Tech for Apartheid
+Privacy concerns
+Street View
+YouTube
+Trade unions
+Alphabet Workers Union
+YouTube copyright issues
+Incidents
+Backdoor advertisement controversy
+Blocking of YouTube videos in Germany
+Data breach
+Elsagate
+Fantastic Adventures scandal
+Kohistan video case
+Reactions to Innocence of Muslims
+San Francisco tech bus protests
+Services outages
+Slovenian government incident
+Walkouts
+YouTube headquarters shooting
+Other
+Android apps
+April Fools' Day jokes
+Doodles
+Doodle Champion Island Games
+Magic Cat Academy
+Easter eggs
+History
+Gmail
+Search
+YouTube
+Logo
+Material Design
+Mergers and acquisitions
+DevelopmentSoftwareA–C
+Accelerated Linear Algebra
+AMP
+Actions on Google
+ALTS
+American Fuzzy Lop
+Android Cloud to Device Messaging
+Android Debug Bridge
+Android NDK
+Android Runtime
+Android SDK
+Android Studio
+Angular
+AngularJS
+Apache Beam
+APIs
+App Engine
+App Inventor
+App Maker
+App Runtime for Chrome
+AppJet
+Apps Script
+AppSheet
+ARCore
+Base
+Bazel
+BeyondCorp
+Bigtable
+BigQuery
+Bionic
+Blockly
+Borg
+Caja
+Cameyo
+Chart API
+Charts
+Chrome Frame
+Chromium
+Blink
+Closure Tools
+Cloud Connect
+Cloud Dataflow
+Cloud Datastore
+Cloud Messaging
+Cloud Shell
+Cloud Storage
+Code Search
+Compute Engine
+Cpplint
+D–N
+Dalvik
+Data Protocol
+Dialogflow
+Exposure Notification
+Fast Pair
+Fastboot
+Federated Learning of Cohorts
+File System
+Firebase
+Firebase Cloud Messaging
+FlatBuffers
+Flutter
+Freebase
+Gadgets
+Ganeti
+Gears
+Gerrit
+GLOP
+gRPC
+Gson
+Guava
+Guetzli
+Guice
+gVisor
+GYP
+JAX
+Jetpack Compose
+Keyhole Markup Language
+Kubernetes
+Kythe
+LevelDB
+Lighthouse
+Looker Studio
+lmctfy
+MapReduce
+Mashup Editor
+Matter
+Mobile Services
+Namebench
+Native Client
+Neatx
+Neural Machine Translation
+Nomulus
+O–Z
+Open Location Code
+OpenRefine
+OpenSocial
+Optimize
+OR-Tools
+Pack
+PageSpeed
+Piper
+Plugin for Eclipse
+Polymer
+Programmable Search Engine
+Project IDX
+Project Shield
+Public DNS
+reCAPTCHA
+RenderScript
+SafetyNet
+SageTV
+Schema.org
+Search Console
+Shell
+Sitemaps
+Skia Graphics Engine
+Spanner
+Sputnik
+Stackdriver
+Swiffy
+Tango
+TensorFlow
+Tesseract
+Test
+Translator Toolkit
+Urchin
+UTM parameters
+V8
+VirusTotal
+VisBug
+Wave Federation Protocol
+Weave
+Web Accelerator
+Web Designer
+Web Server
+Web Toolkit
+Webdriver Torso
+WebRTC
+Operating systems
+Android
+Cupcake
+Donut
+Eclair
+Froyo
+Gingerbread
+Honeycomb
+Ice Cream Sandwich
+Jelly Bean
+KitKat
+Lollipop
+Marshmallow
+Nougat
+Oreo
+Pie
+10
+11
+12
+13
+14
+15
+16
+version history
+smartphones
+Android Automotive
+Android Go
+devices
+Android Things
+Android TV
+devices
+Android XR
+ChromeOS
+ChromeOS Flex
+ChromiumOS
+Fuchsia
+Glass OS
+gLinux
+Goobuntu
+TV
+Wear OS
+Language models
+BERT
+Chinchilla
+DreamBooth
+Gemini
+LaMDA
+PaLM
+T5
+VideoPoet
+XLNet
+Neural networks
+EfficientNet
+Gato
+Inception
+MobileNet
+Transformer
+WaveNet
+Computer programs
+AlphaDev
+AlphaFold
+AlphaGeometry
+AlphaGo
+AlphaGo Zero
+AlphaStar
+AlphaZero
+Master
+MuZero
+Formats and codecs
+AAB
+APK
+AV1
+iLBC
+iSAC
+libvpx
+Lyra
+Protocol Buffers
+VP3
+VP6
+VP8
+VP9
+WebM
+WebP
+WOFF2
+Programming languages
+Carbon
+Dart
+Go
+Sawzall
+Search algorithms
+Googlebot
+Hummingbird
+Mobilegeddon
+PageRank
+matrix
+Panda
+Penguin
+Pigeon
+RankBrain
+Domain names
+.app
+.dev
+.google
+.zip
+g.co
+google.by
+Typefaces
+Croscore
+Noto
+Product Sans
+Roboto
+SoftwareA
+Aardvark
+Account
+Dashboard
+Takeout
+Ad Manager
+AdMob
+Ads
+AdSense
+Affiliate Network
+Alerts
+Allo
+Analytics
+Android Auto
+Android Beam
+Answers
+Apture
+Arts & Culture
+Assistant
+Attribution
+Authenticator
+B
+BebaPay
+BeatThatQuote.com
+Blog Search
+Blogger
+Body
+Bookmarks
+Books
+Ngram Viewer
+Browser Sync
+Building Maker
+Bump
+BumpTop
+Buzz
+C
+Calendar
+Cast
+Catalogs
+Chat
+Checkout
+Chrome
+Chrome Apps
+Chrome Experiments
+Chrome Remote Desktop
+Chrome Web Store
+Classroom
+Cloud Print
+Cloud Search
+Contacts
+Contributor
+Crowdsource
+Currents (social app)
+Currents (news app)
+D
+Data Commons
+Dataset Search
+Desktop
+Dictionary
+Digital Wellbeing
+Dinosaur Game
+Directory
+Docs
+Docs Editors
+Domains
+Drawings
+Drive
+Duo
+E
+Earth
+Etherpad
+Expeditions
+Express
+F
+Family Link
+Fast Flip
+FeedBurner
+fflick
+Fi Wireless
+Finance
+Files
+Find My Device
+Fit
+Flights
+Flu Trends
+Fonts
+Forms
+Friend Connect
+Fusion Tables
+G
+Gboard
+Gemini
+Gesture Search
+Gizmo5
+Google+
+Gmail
+Goggles
+GOOG-411
+Grasshopper
+Groups
+H
+Hangouts
+Helpouts
+I
+iGoogle
+Images
+Image Labeler
+Image Swirl
+Inbox by Gmail
+Input Tools
+Japanese Input
+Pinyin
+Insights for Search
+J
+Jaiku
+Jamboard
+K
+Kaggle
+Keep
+Knol
+L
+Labs
+Latitude
+Lens
+Like.com
+Live Transcribe
+Lively
+M
+Map Maker
+Maps
+Maps Navigation
+Marketing Platform
+Meet
+Messages
+Moderator
+My Tracks
+N
+Nearby Share
+News
+News & Weather
+News Archive
+Notebook
+NotebookLM
+Now
+O
+Offers
+One
+One Pass
+Opinion Rewards
+Orkut
+Oyster
+P
+Panoramio
+PaperofRecord.com
+Patents
+Page Creator
+Pay (mobile app)
+Pay (payment method)
+Pay Send
+People Cards
+Person Finder
+Personalized Search
+Photomath
+Photos
+Picasa
+Picasa Web Albums
+Picnik
+Pixel Camera
+Play
+Play Books
+Play Games
+Play Music
+Play Newsstand
+Play Pass
+Play Services
+Podcasts
+Poly
+Postini
+PostRank
+Primer
+Project Starline
+Public Alerts
+Public Data Explorer
+Q
+Question Hub
+Quick, Draw!
+Quick Search Box
+Quick Share
+Quickoffice
+R
+Read Along
+Reader
+Reply
+S
+Safe Browsing
+SageTV
+Santa Tracker
+Schemer
+Scholar
+Search
+AI Overviews
+Knowledge Graph
+SafeSearch
+Searchwiki
+Sheets
+Shoploop
+Shopping
+Sidewiki
+Sites
+Slides
+Snapseed
+Socratic
+Softcard
+Songza
+Sound Amplifier
+Spaces
+Sparrow (chatbot)
+Sparrow (email client)
+Speech Recognition & Synthesis
+Squared
+Stadia
+Station
+Store
+Street View
+Surveys
+Sync
+T
+Tables
+Talk
+TalkBack
+Tasks
+Tenor
+Tez
+Tilt Brush
+Toolbar
+Toontastic 3D
+Translate
+Travel
+Trendalyzer
+Trends
+TV
+U
+URL Shortener
+V
+Video
+Vids
+Voice
+Voice Access
+Voice Search
+W
+Wallet
+Wave
+Waze
+WDYL
+Web Light
+Where Is My Train
+Widevine
+Wiz
+Word Lens
+Workspace
+Workspace Marketplace
+Y
+YouTube
+YouTube Kids
+YouTube Music
+YouTube Premium
+YouTube Shorts
+YouTube Studio
+YouTube TV
+YouTube VR
+HardwarePixelSmartphones
+Pixel (2016)
+Pixel 2 (2017)
+Pixel 3 (2018)
+Pixel 3a (2019)
+Pixel 4 (2019)
+Pixel 4a (2020)
+Pixel 5 (2020)
+Pixel 5a (2021)
+Pixel 6 (2021)
+Pixel 6a (2022)
+Pixel 7 (2022)
+Pixel 7a (2023)
+Pixel Fold (2023)
+Pixel 8 (2023)
+Pixel 8a (2024)
+Pixel 9 (2024)
+Pixel 9 Pro Fold (2024)
+Pixel 9a (2025)
+Smartwatches
+Pixel Watch (2022)
+Pixel Watch 2 (2023)
+Pixel Watch 3 (2024)
+Tablets
+Pixel C (2015)
+Pixel Slate (2018)
+Pixel Tablet (2023)
+Laptops
+Chromebook Pixel (2013–2015)
+Pixelbook (2017)
+Pixelbook Go (2019)
+Other
+Pixel Buds (2017–present)
+NexusSmartphones
+Nexus One (2010)
+Nexus S (2010)
+Galaxy Nexus (2011)
+Nexus 4 (2012)
+Nexus 5 (2013)
+Nexus 6 (2014)
+Nexus 5X (2015)
+Nexus 6P (2015)
+Tablets
+Nexus 7 (2012)
+Nexus 10 (2012)
+Nexus 7 (2013)
+Nexus 9 (2014)
+Other
+Nexus Q (2012)
+Nexus Player (2014)
+Other
+Android Dev Phone
+Android One
+Cardboard
+Chromebit
+Chromebook
+Chromebox
+Chromecast
+Clips
+Daydream
+Fitbit
+Glass
+Liftware
+Liquid Galaxy
+Nest
+smart speakers
+Thermostat
+Wifi
+Play Edition
+Project Ara
+OnHub
+Pixel Visual Core
+Project Iris
+Search Appliance
+Sycamore processor
+Tensor
+Tensor Processing Unit
+Titan Security Key
+vteLitigationAdvertising
+Feldman v. Google, Inc. (2007)
+Rescuecom Corp. v. Google Inc. (2009)
+Goddard v. Google, Inc. (2009)
+Rosetta Stone Ltd. v. Google, Inc. (2012)
+Google, Inc. v. American Blind & Wallpaper Factory, Inc. (2017)
+Jedi Blue
+Antitrust
+European Union (2010–present)
+United States v. Adobe Systems, Inc., Apple Inc., Google Inc., Intel Corporation, Intuit, Inc., and Pixar (2011)
+Umar Javeed, Sukarma Thapar, Aaqib Javeed vs. Google LLC and Ors. (2019)
+United States v. Google LLC (2020)
+United States v. Google LLC (2023)
+Intellectualproperty
+Perfect 10, Inc. v. Amazon.com, Inc. (2007)
+Viacom International Inc. v. YouTube, Inc. (2010)
+Lenz v. Universal Music Corp.(2015)
+Authors Guild, Inc. v. Google, Inc. (2015)
+Field v. Google, Inc. (2016)
+Google LLC v. Oracle America, Inc. (2021)
+Smartphone patent wars
+Privacy
+Rocky Mountain Bank v. Google, Inc. (2009)
+Hibnick v. Google, Inc. (2010)
+United States v. Google Inc. (2012)
+Judgement of the German Federal Court of Justice on Google's autocomplete function (2013)
+Joffe v. Google, Inc. (2013)
+Mosley v SARL Google (2013)
+Google Spain v AEPD and Mario Costeja González (2014)
+Frank v. Gaos (2019)
+Other
+Garcia v. Google, Inc. (2015)
+Google LLC v Defteros (2020)
+Epic Games v. Google (2021)
+Gonzalez v. Google LLC (2022)
+RelatedConcepts
+Beauty YouTuber
+BookTube
+BreadTube
+"Don't be evil"
+Gayglers
+Google as a verb
+Google bombing
+2004 U.S. presidential election
+Google effect
+Googlefight
+Google hacking
+Googleshare
+Google tax
+Googlewhack
+Googlization
+Illegal flower tribute
+Objectives and key results
+Rooting
+Search engine manipulation effect
+Side project time
+Sitelink
+Site reliability engineering
+StudyTube
+VTuber
+YouTube Poop
+YouTuber
+list
+ProductsAndroid
+Booting process
+Custom distributions
+Features
+Recovery mode
+Software development
+Street View coverage
+Africa
+Antarctica
+Asia
+Israel
+Europe
+North America
+Canada
+United States
+Oceania
+South America
+Argentina
+Chile
+Colombia
+YouTube
+Copyright strike
+Education
+Features
+Moderation
+Most-disliked videos
+Most-liked videos
+Most-subscribed channels
+Most-viewed channels
+Most-viewed videos
+Arabic music videos
+Chinese music videos
+French music videos
+Indian videos
+Pakistani videos
+Official channel
+Social impact
+Suspensions
+YouTube Premium original programming
+Other
+Gmail interface
+Maps pin
+Most downloaded Google Play applications
+Stadia games
+Documentaries
+AlphaGo
+Google: Behind the Screen
+Google Maps Road Trip
+Google and the World Brain
+The Creepy Line
+Books
+Google Hacks
+The Google Story
+Google Volume One
+Googled: The End of the World as We Know It
+How Google Works
+I'm Feeling Lucky
+In the Plex
+The Google Book
+The MANIAC
+Popular culture
+Google Feud
+Google Me (film)
+"Google Me" (Kim Zolciak song)
+"Google Me" (Teyana Taylor song)
+Is Google Making Us Stupid?
+Proceratium google
+Matt Nathanson: Live at Google
+The Billion Dollar Code
+The Internship
+Where on Google Earth is Carmen Sandiego?
+Other
+"Attention Is All You Need"
+elgooG
+Generative pre-trained transformer
+"Me at the zoo"
+Predictions of the end
+Relationship with Wikipedia
+"Reunion"
+Robot Constitution
+Italics denote discontinued products.
+ Category
+ Outline
+vteAlphabet Inc.SubsidiariesCurrent
+Access
+Google Fiber
+Calico
+CapitalG
+Google
+DeepMind
+AlphaFold
+AlphaGo
+vs. Fan Hui
+vs. Ke Jie
+vs. Lee Sedol
+film
+Future of Go Summit
+AlphaGo Zero
+AlphaStar
+AlphaZero
+Master
+MuZero
+WaveNet
+DoubleClick
+Firebase
+Fitbit
+Tenor
+Waze
+YouTube
+GV
+Isomorphic Labs
+Verily
+Baseline Study
+X Development
+Waymo
+Wing
+Former
+Boston Dynamics
+Chronicle Security
+Jigsaw
+Loon
+Makani
+Meka Robotics
+Nest Labs
+Sidewalk Labs
+Toronto
+Vicarious
+PeopleExecutivesCurrent
+Sundar Pichai (CEO)
+Ruth Porat (president and CIO)
+Anat Ashkenazi (CFO)
+Former
+Larry Page (CEO)
+Sergey Brin (President)
+David Drummond (CLO)
+Board ofdirectorsCurrent
+Frances Arnold
+Sergey Brin
+R. Martin Chavez
+John Doerr
+John L. Hennessy
+Ann Mather
+Larry Page
+Sundar Pichai
+Ram Shriram
+Roger W. Ferguson Jr.
+Former
+Diane Greene
+Alan Mulally
+Eric Schmidt
+Others
+Andrew Conrad
+Tony Fadell
+Arthur D. Levinson
+David Krane
+Astro Teller
+
+ Category
+ Companies portal
+ Internet portal
+
+vteAndroid
+Android Go
+Comparison of products
+SoftwaredevelopmentDevelopment toolsOfficial
+Android Runtime (ART)
+Software development kit (SDK)
+Android Debug Bridge (ADB)
+Fastboot
+Android App Bundle
+Android application package (APK)
+Bionic
+Dalvik
+Firebase
+Google Cloud Messaging (GCM)
+Firebase Cloud Messaging (FCM)
+Google Mobile Services (GMS)
+Jetpack Compose
+Native development kit (NDK)
+Open accessory development kit (OADK)
+RenderScript
+Skia
+AdMob
+Material Design
+Fonts
+Droid
+Roboto
+Noto
+Google Developers
+Other
+OpenBinder
+Apache Harmony
+OpenJDK
+Gradle
+Integrated developmentenvironments (IDE)
+Android Studio
+IntelliJ IDEA
+Eclipse
+Android Development Tools (ADT)
+MIT App Inventor
+Languages, databases
+Java
+Kotlin
+XML
+C
+C++
+SQLite
+Extended reality (XR)
+Android XR
+Cardboard
+Daydream
+Events, communities
+Google I/O
+Developer Challenge
+Developer Lab
+Android Open Source Project (AOSP)
+Releases
+Cupcake (1.5)
+Donut (1.6)
+Eclair (2.0–2.1)
+Froyo (2.2)
+Gingerbread (2.3)
+Honeycomb (3.x)
+Ice Cream Sandwich (4.0)
+Jelly Bean (4.1–4.3)
+KitKat (4.4)
+Lollipop (5.x)
+Marshmallow (6.x)
+Nougat (7.x)
+Oreo (8.x)
+Pie (9)
+10
+11
+12
+13
+14
+15
+16
+Derivatives
+Android Automotive
+Android Things
+TV
+devices
+Android XR
+Wear OS
+DevicesPixel
+C
+Pixel & Pixel XL
+2 & 2 XL
+3 & 3 XL
+3a & 3a XL
+4 & 4 XL
+4a & 4a (5G)
+5
+5a
+6 & 6 Pro
+6a
+7 & 7 Pro
+7a
+Fold
+Tablet
+8 & 8 Pro
+8a
+9, 9 Pro & 9 Pro XL
+9 Pro Fold
+9a
+Nexus
+One
+S
+Galaxy Nexus
+4
+10
+Q
+5
+5X
+6
+6P
+7
+2012
+2013
+9
+Player
+Play edition
+HTC One (M7)
+HTC One (M8)
+LG G Pad 8.3
+Moto G
+Samsung Galaxy S4
+Sony Xperia Z Ultra
+
+Android One
+other smartphones
+Customdistributions
+AliOS
+Android-x86
+Remix OS
+AOKP
+Baidu Yi
+Barnes & Noble Nook
+CalyxOS
+ColorOS
+realme UI
+CopperheadOS
+EMUI
+Magic UI
+Fire OS
+Flyme OS
+GrapheneOS
+Xiaomi HyperOS
+MIUI
+MIUI for Poco
+LeWa OS
+LineageOS
+/e/
+CrDroid
+CyanogenMod
+DivestOS
+iodéOS
+Kali NetHunter
+LiteOS
+Meta Horizon OS
+MicroG
+Nokia X software platform
+OmniROM
+OPhone
+OxygenOS
+PixelExperience
+Pixel UI
+Replicant
+Resurrection Remix OS
+SlimRoms
+TCL UI
+Ubuntu for Android
+XobotOS
+ZUI
+Booting andrecovery
+Booting process
+Recovery mode
+TWRP
+ClockworkMod
+Fastboot
+APIs
+Google Maps
+Google Play Services
+SafetyNet
+Google Search
+Alternative UIs
+Asus ZenFone
+Cherry OS
+ColorOS
+EMUI
+Funtouch OS
+Flyme OS
+HiOS
+Hive UI (XOLO Hive)
+HTC Sense
+LG UX
+Optimus UI
+Motoblur
+One UI
+Origin OS
+Experience
+TouchWiz
+OxygenOS
+Pixel UI
+XOS
+Xperia UI
+Rooting
+SuperSU
+Magisk
+Kingo Root
+Lists
+Custom distributions
+Features
+Free and open-source applications
+Google apps
+Launchers
+Related topics
+Index of articles
+Androidland
+Chromecast
+Google
+Java vs. Android API
+Lawn statues
+BlueStacks
+Legal issues
+Google v. Oracle
+smartphone patent wars
+Android Runtime for Chrome
+
+ Category:Android development
+ Category:Mobile telecommunications
+ Software portal
+ Telecommunication portal
+
+vteWeb search enginesActiveDedicated
+AOL
+Ahmia
+Ask.com
+Baidu
+Bing
+Blackle
+Brave
+DuckDuckGo
+Ecosia
+Fireball
+Google
+Kiddle
+KidRex
+KidzSearch
+Lycos
+Mojeek
+Naver
+Parsijoo
+Perplexity AI
+Petal
+Seznam.cz
+Sogou
+Swisscows
+WebCrawler
+Yahoo!
+Yandex
+Youdao
+Metasearch engines
+Dogpile
+Excite
+Info.com
+Kagi
+MetaCrawler
+MetaGer
+Mullvad Leta
+SearXNG
+Startpage
+Qwant
+DefunctorInactive
+123people
+A9.com
+Aliweb
+AlltheWeb
+AltaVista
+Blekko
+Boogami
+Cuil
+Empas
+Forestle
+GenieKnows
+Gigablast
+Go.com
+HotBot
+Infoseek
+Inktomi
+JumpStation
+LeapFish
+Neeva
+Northern Light
+Pipilika
+Powerset
+Scroogle
+SearchMe
+Searx
+Soso
+Sputnik
+Teoma
+Viewzi
+Vivisimo
+Volunia
+W3Catalog
+Wikiseek
+Yebol
+Yippy
+Yooz
+
+Comparison
+Complete list
+
+Authority control databases InternationalVIAFFASTNationalGermanyUnited StatesFranceBnF dataCzech RepublicNorwayIsrael
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Google_Search&oldid=1288178265"
+Categories: Google SearchInternet search enginesMusic search enginesAlphabet Inc.Google servicesMultilingual websitesInternet properties established in 19971997 establishments in the United StatesWebsites which mirror WikipediaHidden categories: Webarchive template wayback linksPages using cite court with unknown parametersCS1 maint: numeric names: authors listArticles with short descriptionShort description is different from WikidataWikipedia pages semi-protected against vandalismUse mdy dates from March 2022Use American English from June 2016All Wikipedia articles written in American EnglishArticles to be expanded from May 2024All articles to be expandedAll articles with unsourced statementsArticles with unsourced statements from December 2024Pages displaying short descriptions of redirect targets via Module:Annotated linkPages displaying wikidata descriptions as a fallback via Module:Annotated link
+
+
+
+
+
+
+ This page was last edited on 1 May 2025, at 00:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Google Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+99 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
