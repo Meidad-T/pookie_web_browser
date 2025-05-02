@@ -1,6 +1,7 @@
 # pookie_browser
-This is a Browser I tried to make following a toturial by the coding sloth from youtube. 
-It is not perfect and it doesnt look the best, but I hope to keep learning from it and keep developing it in my free time.
-If you have any questions or concerns about this project, please let me know! you may message me or email me (email is in my bio).
+is a little web browser I built while following a tutorial by The Coding Sloth on YouTube. It's definitely not perfect (yet!), and it's got a few rough edges, but I’m proud of it as one of my first big steps into building cool software on my own.
 
+This project started as a learning experiment, and I plan to keep tinkering with it whenever I get the chance. It might not be Chrome or Firefox, but hey - everyone starts somewhere, right?
+
+If you have any questions, feedback, or just want to say hi, feel free to reach out! You can find my contact info in my bio.
 Thank yall and HAPPY CODING!
