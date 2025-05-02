@@ -40,3 +40,6 @@ def search(query, index, sentence_map, url_map):
         results.append((url, sentence.strip()))
 
     return results
+
+
+# TEST
